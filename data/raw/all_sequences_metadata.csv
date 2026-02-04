@@ -1,0 +1,846 @@
+id,description,family,length,file
+PQ505906.1,"PQ505906.1 Human coronavirus OC43 isolate Hangzhou/CO1296/21, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505905.1,"PQ505905.1 Human coronavirus OC43 isolate Hangzhou/CO1307/21, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505904.1,"PQ505904.1 Human coronavirus OC43 isolate Hangzhou/CO8382/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505903.1,"PQ505903.1 Human coronavirus OC43 isolate Hangzhou/N1025/21, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505902.1,"PQ505902.1 Human coronavirus OC43 isolate Hangzhou/N1376/21, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505901.1,"PQ505901.1 Human coronavirus OC43 isolate Hangzhou/N856/21, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505900.1,"PQ505900.1 Human coronavirus OC43 isolate Hangzhou/N124/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505899.1,"PQ505899.1 Human coronavirus OC43 isolate Hangzhou/N593/21, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505898.1,"PQ505898.1 Human coronavirus OC43 isolate Hangzhou/CO8230/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505897.1,"PQ505897.1 Human coronavirus OC43 isolate Hangzhou/CO9839/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505896.1,"PQ505896.1 Human coronavirus OC43 isolate Hangzhou/N834/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505895.1,"PQ505895.1 Human coronavirus OC43 isolate Hangzhou/N1159/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505894.1,"PQ505894.1 Human coronavirus OC43 isolate Hangzhou/N931/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PQ505893.1,"PQ505893.1 Human coronavirus OC43 isolate Hangzhou/CO8240/22, complete genome",Coronaviridae,30228,data/raw/coronaviridae.fasta
+PX733332.1,"PX733332.1 Porcine epidemic diarrhea virus strain JS-2023, complete genome",Coronaviridae,28035,data/raw/coronaviridae.fasta
+PX733331.1,"PX733331.1 Porcine epidemic diarrhea virus strain HB-2023, complete genome",Coronaviridae,28029,data/raw/coronaviridae.fasta
+PX943850.1,"PX943850.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109883775/2026, complete genome",Coronaviridae,29693,data/raw/coronaviridae.fasta
+PX943849.1,"PX943849.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109864497/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943847.1,"PX943847.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109611465/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943846.1,"PX943846.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109609163/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943845.1,"PX943845.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109529248/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943844.1,"PX943844.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109466909/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943842.1,"PX943842.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109374433/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943840.1,"PX943840.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-260109053547/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943590.1,"PX943590.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231978045/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943587.1,"PX943587.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231890214/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943583.1,"PX943583.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231821795/2025, complete genome",Coronaviridae,29759,data/raw/coronaviridae.fasta
+PX943582.1,"PX943582.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231751040/2025, complete genome",Coronaviridae,29707,data/raw/coronaviridae.fasta
+PX943581.1,"PX943581.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231712348/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943578.1,"PX943578.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231526125/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943577.1,"PX943577.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231522795/2025, complete genome",Coronaviridae,29760,data/raw/coronaviridae.fasta
+PX943570.1,"PX943570.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231331793/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX943565.1,"PX943565.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231187686/2025, complete genome",Coronaviridae,29702,data/raw/coronaviridae.fasta
+PX943563.1,"PX943563.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251231151979/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX940602.1,"PX940602.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/GKISBBBI32434/2026, complete genome",Coronaviridae,29838,data/raw/coronaviridae.fasta
+MW591993.2,"MW591993.2 Canine coronavirus isolate CCoV-HuPn-2018, complete genome",Coronaviridae,29088,data/raw/coronaviridae.fasta
+PX931309.1,"PX931309.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801753894/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931306.1,"PX931306.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801691417/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931296.1,"PX931296.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801579368/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931287.1,"PX931287.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801383159/2025, complete genome",Coronaviridae,29690,data/raw/coronaviridae.fasta
+PX931285.1,"PX931285.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801365244/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931275.1,"PX931275.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801235943/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931269.1,"PX931269.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801204279/2025, complete genome",Coronaviridae,29755,data/raw/coronaviridae.fasta
+PX931264.1,"PX931264.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801138944/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931261.1,"PX931261.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801126452/2025, complete genome",Coronaviridae,29692,data/raw/coronaviridae.fasta
+PX931258.1,"PX931258.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801100467/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931257.1,"PX931257.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801088914/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931254.1,"PX931254.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801075814/2025, complete genome",Coronaviridae,29679,data/raw/coronaviridae.fasta
+PX931251.1,"PX931251.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801025432/2025, complete genome",Coronaviridae,29674,data/raw/coronaviridae.fasta
+PX931250.1,"PX931250.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801021500/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931245.1,"PX931245.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-250801002012/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931237.1,"PX931237.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010979960/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931235.1,"PX931235.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010942550/2025, complete genome",Coronaviridae,29760,data/raw/coronaviridae.fasta
+PX931234.1,"PX931234.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010942510/2025, complete genome",Coronaviridae,29751,data/raw/coronaviridae.fasta
+PX931232.1,"PX931232.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010832001/2025, complete genome",Coronaviridae,29692,data/raw/coronaviridae.fasta
+PX931226.1,"PX931226.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010718892/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931225.1,"PX931225.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010672911/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931222.1,"PX931222.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010614740/2025, complete genome",Coronaviridae,29761,data/raw/coronaviridae.fasta
+PX931215.1,"PX931215.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010516789/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931209.1,"PX931209.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010464005/2025, complete genome",Coronaviridae,29684,data/raw/coronaviridae.fasta
+PX931207.1,"PX931207.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010382391/2025, complete genome",Coronaviridae,29760,data/raw/coronaviridae.fasta
+PX931195.1,"PX931195.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010217362/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931191.1,"PX931191.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010155692/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931175.1,"PX931175.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251017470746/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931171.1,"PX931171.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251017118474/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931164.1,"PX931164.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251024753233/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931137.1,"PX931137.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251031635576/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931124.1,"PX931124.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251031086911/2025, complete genome",Coronaviridae,29690,data/raw/coronaviridae.fasta
+PX931113.1,"PX931113.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114969327/2025, complete genome",Coronaviridae,29702,data/raw/coronaviridae.fasta
+PX931110.1,"PX931110.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114863946/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931109.1,"PX931109.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114845570/2025, complete genome",Coronaviridae,29764,data/raw/coronaviridae.fasta
+PX931108.1,"PX931108.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114786010/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931106.1,"PX931106.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114653321/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931105.1,"PX931105.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114579239/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931096.1,"PX931096.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114308761/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931093.1,"PX931093.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114243588/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931092.1,"PX931092.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114211424/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931090.1,"PX931090.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114196063/2025, complete genome",Coronaviridae,29728,data/raw/coronaviridae.fasta
+PX931089.1,"PX931089.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114167827/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931085.1,"PX931085.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114014023/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931075.1,"PX931075.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205993534/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931068.1,"PX931068.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205697884/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931065.1,"PX931065.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205667026/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931063.1,"PX931063.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205639958/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931061.1,"PX931061.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205573602/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931057.1,"PX931057.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205381002/2025, complete genome",Coronaviridae,29703,data/raw/coronaviridae.fasta
+PX931055.1,"PX931055.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205327563/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931048.1,"PX931048.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205213907/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931046.1,"PX931046.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205155870/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931042.1,"PX931042.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205060614/2025, complete genome",Coronaviridae,29700,data/raw/coronaviridae.fasta
+PX931031.1,"PX931031.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251121942051/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931030.1,"PX931030.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251121938503/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931027.1,"PX931027.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251121771988/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+PX931024.1,"PX931024.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251121440557/2025, complete genome",Coronaviridae,29757,data/raw/coronaviridae.fasta
+PX931021.1,"PX931021.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251121152753/2025, complete genome",Coronaviridae,29694,data/raw/coronaviridae.fasta
+OZ405696.1,"OZ405696.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29861,data/raw/coronaviridae.fasta
+OZ405695.1,"OZ405695.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405691.1,"OZ405691.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405690.1,"OZ405690.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405689.1,"OZ405689.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405688.1,"OZ405688.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405687.1,"OZ405687.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29844,data/raw/coronaviridae.fasta
+OZ405686.1,"OZ405686.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29882,data/raw/coronaviridae.fasta
+OZ405685.1,"OZ405685.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29871,data/raw/coronaviridae.fasta
+OZ405684.1,"OZ405684.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29873,data/raw/coronaviridae.fasta
+OZ405683.1,"OZ405683.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405682.1,"OZ405682.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29854,data/raw/coronaviridae.fasta
+OZ405681.1,"OZ405681.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405680.1,"OZ405680.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29851,data/raw/coronaviridae.fasta
+OZ405679.1,"OZ405679.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405678.1,"OZ405678.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405677.1,"OZ405677.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405676.1,"OZ405676.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29873,data/raw/coronaviridae.fasta
+OZ405675.1,"OZ405675.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29826,data/raw/coronaviridae.fasta
+OZ405674.1,"OZ405674.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29802,data/raw/coronaviridae.fasta
+OZ405673.1,"OZ405673.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29835,data/raw/coronaviridae.fasta
+OZ405672.1,"OZ405672.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405671.1,"OZ405671.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29811,data/raw/coronaviridae.fasta
+OZ405670.1,"OZ405670.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405669.1,"OZ405669.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29812,data/raw/coronaviridae.fasta
+OZ405668.1,"OZ405668.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405667.1,"OZ405667.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405666.1,"OZ405666.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405665.1,"OZ405665.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405664.1,"OZ405664.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405663.1,"OZ405663.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405662.1,"OZ405662.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405661.1,"OZ405661.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405660.1,"OZ405660.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405659.1,"OZ405659.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29861,data/raw/coronaviridae.fasta
+OZ405658.1,"OZ405658.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405657.1,"OZ405657.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405656.1,"OZ405656.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29812,data/raw/coronaviridae.fasta
+OZ405655.1,"OZ405655.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29810,data/raw/coronaviridae.fasta
+OZ405654.1,"OZ405654.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405653.1,"OZ405653.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29811,data/raw/coronaviridae.fasta
+OZ405652.1,"OZ405652.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405651.1,"OZ405651.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405650.1,"OZ405650.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29812,data/raw/coronaviridae.fasta
+OZ405649.1,"OZ405649.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29844,data/raw/coronaviridae.fasta
+OZ405648.1,"OZ405648.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405647.1,"OZ405647.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405646.1,"OZ405646.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29888,data/raw/coronaviridae.fasta
+OZ405645.1,"OZ405645.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405644.1,"OZ405644.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29873,data/raw/coronaviridae.fasta
+OZ405643.1,"OZ405643.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29857,data/raw/coronaviridae.fasta
+OZ405642.1,"OZ405642.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405641.1,"OZ405641.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29815,data/raw/coronaviridae.fasta
+OZ405640.1,"OZ405640.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29844,data/raw/coronaviridae.fasta
+OZ405639.1,"OZ405639.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29802,data/raw/coronaviridae.fasta
+OZ405638.1,"OZ405638.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405637.1,"OZ405637.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29850,data/raw/coronaviridae.fasta
+OZ405636.1,"OZ405636.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405635.1,"OZ405635.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29891,data/raw/coronaviridae.fasta
+OZ405634.1,"OZ405634.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405633.1,"OZ405633.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29868,data/raw/coronaviridae.fasta
+OZ405632.1,"OZ405632.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29837,data/raw/coronaviridae.fasta
+OZ405631.1,"OZ405631.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405630.1,"OZ405630.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405629.1,"OZ405629.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405628.1,"OZ405628.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405627.1,"OZ405627.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29874,data/raw/coronaviridae.fasta
+OZ405626.1,"OZ405626.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29802,data/raw/coronaviridae.fasta
+OZ405625.1,"OZ405625.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405624.1,"OZ405624.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29860,data/raw/coronaviridae.fasta
+OZ405623.1,"OZ405623.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29873,data/raw/coronaviridae.fasta
+OZ405622.1,"OZ405622.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405621.1,"OZ405621.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29838,data/raw/coronaviridae.fasta
+OZ405620.1,"OZ405620.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405619.1,"OZ405619.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29812,data/raw/coronaviridae.fasta
+OZ405618.1,"OZ405618.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29835,data/raw/coronaviridae.fasta
+OZ405617.1,"OZ405617.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29802,data/raw/coronaviridae.fasta
+OZ405616.1,"OZ405616.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29835,data/raw/coronaviridae.fasta
+OZ405615.1,"OZ405615.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405614.1,"OZ405614.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29835,data/raw/coronaviridae.fasta
+OZ405613.1,"OZ405613.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29888,data/raw/coronaviridae.fasta
+OZ405612.1,"OZ405612.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405611.1,"OZ405611.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29851,data/raw/coronaviridae.fasta
+OZ405610.1,"OZ405610.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405609.1,"OZ405609.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29860,data/raw/coronaviridae.fasta
+OZ405608.1,"OZ405608.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405607.1,"OZ405607.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405606.1,"OZ405606.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405605.1,"OZ405605.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29834,data/raw/coronaviridae.fasta
+OZ405604.1,"OZ405604.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29803,data/raw/coronaviridae.fasta
+OZ405603.1,"OZ405603.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405602.1,"OZ405602.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405601.1,"OZ405601.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29825,data/raw/coronaviridae.fasta
+OZ405600.1,"OZ405600.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29835,data/raw/coronaviridae.fasta
+OZ405599.1,"OZ405599.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29844,data/raw/coronaviridae.fasta
+OZ405598.1,"OZ405598.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405597.1,"OZ405597.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29843,data/raw/coronaviridae.fasta
+OZ405596.1,"OZ405596.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405595.1,"OZ405595.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29846,data/raw/coronaviridae.fasta
+OZ405594.1,"OZ405594.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+OZ405593.1,"OZ405593.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29802,data/raw/coronaviridae.fasta
+OZ405592.1,"OZ405592.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29838,data/raw/coronaviridae.fasta
+OZ405591.1,"OZ405591.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29812,data/raw/coronaviridae.fasta
+OZ405590.1,"OZ405590.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29848,data/raw/coronaviridae.fasta
+OZ405589.1,"OZ405589.1 Severe acute respiratory syndrome coronavirus 2 genome assembly, complete genome: monopartite",Coronaviridae,29847,data/raw/coronaviridae.fasta
+PQ220318.1,"PQ220318.1 MAG: Wuhan Mosquito Virus 6 isolate VN6831CPR1, complete genome",Orthomyxoviridae,2214,data/raw/orthomyxoviridae.fasta
+PV585551.1,"PV585551.1 MAG: Egypt associated orthomyxo-like virus 1 isolate Giza_CPC_Pool4, complete genome",Orthomyxoviridae,2403,data/raw/orthomyxoviridae.fasta
+AB818503.1,"AB818503.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB818495.1,"AB818495.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB827993.1,"AB827993.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1362,data/raw/orthomyxoviridae.fasta
+AB827992.1,"AB827992.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB827991.1,"AB827991.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1742,data/raw/orthomyxoviridae.fasta
+AB827990.1,"AB827990.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB827989.1,"AB827989.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB827988.1,"AB827988.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+AB822992.1,"AB822992.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1361,data/raw/orthomyxoviridae.fasta
+AB822991.1,"AB822991.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB822990.1,"AB822990.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1745,data/raw/orthomyxoviridae.fasta
+AB822989.1,"AB822989.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB822988.1,"AB822988.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB822987.1,"AB822987.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+AB818507.1,"AB818507.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1361,data/raw/orthomyxoviridae.fasta
+AB818506.1,"AB818506.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB818505.1,"AB818505.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1745,data/raw/orthomyxoviridae.fasta
+AB818504.1,"AB818504.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB818502.1,"AB818502.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+AB818499.1,"AB818499.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1361,data/raw/orthomyxoviridae.fasta
+AB818498.1,"AB818498.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB818497.1,"AB818497.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1745,data/raw/orthomyxoviridae.fasta
+AB818496.1,"AB818496.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB818494.1,"AB818494.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+HE589469.1,"HE589469.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 7, complete genome",Orthomyxoviridae,1008,data/raw/orthomyxoviridae.fasta
+HE589468.1,"HE589468.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 6, complete genome",Orthomyxoviridae,1410,data/raw/orthomyxoviridae.fasta
+HE589466.1,"HE589466.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 4, complete genome",Orthomyxoviridae,1756,data/raw/orthomyxoviridae.fasta
+HE589465.1,"HE589465.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 3, complete genome",Orthomyxoviridae,2202,data/raw/orthomyxoviridae.fasta
+HE589464.1,"HE589464.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 2, complete genome",Orthomyxoviridae,2379,data/raw/orthomyxoviridae.fasta
+HE589463.1,"HE589463.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 1, complete genome",Orthomyxoviridae,2280,data/raw/orthomyxoviridae.fasta
+HE584758.1,"HE584758.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 6, complete genome",Orthomyxoviridae,1438,data/raw/orthomyxoviridae.fasta
+HE584757.1,"HE584757.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 5, complete genome",Orthomyxoviridae,1497,data/raw/orthomyxoviridae.fasta
+HE584756.1,"HE584756.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 4, complete genome",Orthomyxoviridae,1752,data/raw/orthomyxoviridae.fasta
+HE584755.1,"HE584755.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 3, complete genome",Orthomyxoviridae,2202,data/raw/orthomyxoviridae.fasta
+HE584754.1,"HE584754.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 2, complete genome",Orthomyxoviridae,2379,data/raw/orthomyxoviridae.fasta
+HE584753.1,"HE584753.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 1, complete genome",Orthomyxoviridae,2280,data/raw/orthomyxoviridae.fasta
+HE584750.1,"HE584750.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 6, complete genome",Orthomyxoviridae,1438,data/raw/orthomyxoviridae.fasta
+HE584749.1,"HE584749.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 5, complete genome",Orthomyxoviridae,1497,data/raw/orthomyxoviridae.fasta
+HE584748.1,"HE584748.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 4, complete genome",Orthomyxoviridae,1753,data/raw/orthomyxoviridae.fasta
+HE584747.1,"HE584747.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 3, complete genome",Orthomyxoviridae,2229,data/raw/orthomyxoviridae.fasta
+HE584746.1,"HE584746.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 2, complete genome",Orthomyxoviridae,2379,data/raw/orthomyxoviridae.fasta
+HE584745.1,"HE584745.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 1, complete genome",Orthomyxoviridae,2337,data/raw/orthomyxoviridae.fasta
+DQ487340.1,"DQ487340.1 Influenza A virus (A/Panama/2007/1999(H3N2)) segment 4, complete genome",Orthomyxoviridae,1762,data/raw/orthomyxoviridae.fasta
+PV997440.1,"PV997440.1 Yellow fever virus isolate HA015, complete genome",Flaviviridae,10952,data/raw/flaviviridae.fasta
+PX694298.1,"PX694298.1 UNVERIFIED: GB virus isolate 17165368, complete genome",Flaviviridae,9387,data/raw/flaviviridae.fasta
+PX694297.1,"PX694297.1 UNVERIFIED: GB virus isolate 17162284, complete genome",Flaviviridae,9371,data/raw/flaviviridae.fasta
+PX552531.1,"PX552531.1 Bovine viral diarrhea virus 1 strain CHQHBVDV101-2025, complete genome",Flaviviridae,12339,data/raw/flaviviridae.fasta
+PX693668.1,"PX693668.1 UNVERIFIED: GB virus isolate 17088158, complete genome",Flaviviridae,9378,data/raw/flaviviridae.fasta
+PX693667.1,"PX693667.1 UNVERIFIED: GB virus isolate 17025276, complete genome",Flaviviridae,9381,data/raw/flaviviridae.fasta
+PX693666.1,"PX693666.1 UNVERIFIED: GB virus isolate 16155305, complete genome",Flaviviridae,9386,data/raw/flaviviridae.fasta
+PX648516.1,"PX648516.1 Yellow fever virus clone TYF6061, complete genome",Flaviviridae,10851,data/raw/flaviviridae.fasta
+PQ220320.1,"PQ220320.1 MAG: West Nile virus isolate VN6307CPR1R, complete genome",Flaviviridae,10704,data/raw/flaviviridae.fasta
+PQ220319.1,"PQ220319.1 MAG: West Nile virus isolate VN6477CPR1R, complete genome",Flaviviridae,10787,data/raw/flaviviridae.fasta
+PX480447.1,"PX480447.1 Dengue virus type 4 isolate D20-0259, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480446.1,"PX480446.1 Dengue virus type 4 isolate D20-0040, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480445.1,"PX480445.1 Dengue virus type 4 isolate D19-2229, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480444.1,"PX480444.1 Dengue virus type 4 isolate D19-1649, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480443.1,"PX480443.1 Dengue virus type 4 isolate D19-1286, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480442.1,"PX480442.1 Dengue virus type 4 isolate D18-2040, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480441.1,"PX480441.1 Dengue virus type 4 isolate D18-0170, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480440.1,"PX480440.1 Dengue virus type 4 isolate D17-1913, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480439.1,"PX480439.1 Dengue virus type 4 isolate D17-1206, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480438.1,"PX480438.1 Dengue virus type 4 isolate D17-0712, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480437.1,"PX480437.1 Dengue virus type 4 isolate D17-0537, complete genome",Flaviviridae,10649,data/raw/flaviviridae.fasta
+PX480436.1,"PX480436.1 Dengue virus type 3 isolate D21-0005, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480435.1,"PX480435.1 Dengue virus type 3 isolate D20-0183, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480434.1,"PX480434.1 Dengue virus type 3 isolate D20-0128, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480433.1,"PX480433.1 Dengue virus type 3 isolate D20-0127, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480432.1,"PX480432.1 Dengue virus type 3 isolate D19-2479, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480431.1,"PX480431.1 Dengue virus type 3 isolate D19-2240, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480430.1,"PX480430.1 Dengue virus type 3 isolate D19-2221, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480429.1,"PX480429.1 Dengue virus type 3 isolate D19-2204, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480428.1,"PX480428.1 Dengue virus type 3 isolate D19-2179, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480427.1,"PX480427.1 Dengue virus type 3 isolate D19-2149, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480426.1,"PX480426.1 Dengue virus type 3 isolate D19-2136, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480425.1,"PX480425.1 Dengue virus type 3 isolate D19-2134, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480424.1,"PX480424.1 Dengue virus type 3 isolate D19-2115, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480423.1,"PX480423.1 Dengue virus type 3 isolate D19-2082, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480422.1,"PX480422.1 Dengue virus type 3 isolate D19-2055, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480421.1,"PX480421.1 Dengue virus type 3 isolate D19-2053, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480420.1,"PX480420.1 Dengue virus type 3 isolate D19-2042, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480419.1,"PX480419.1 Dengue virus type 3 isolate D19-2037, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480418.1,"PX480418.1 Dengue virus type 3 isolate D19-2035, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480417.1,"PX480417.1 Dengue virus type 3 isolate D19-1990, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480416.1,"PX480416.1 Dengue virus type 3 isolate D19-1983, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480415.1,"PX480415.1 Dengue virus type 3 isolate D19-1974, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480414.1,"PX480414.1 Dengue virus type 3 isolate D19-1964, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480413.1,"PX480413.1 Dengue virus type 3 isolate D19-1963, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480412.1,"PX480412.1 Dengue virus type 3 isolate D19-1951, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480411.1,"PX480411.1 Dengue virus type 3 isolate D19-1950, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480410.1,"PX480410.1 Dengue virus type 3 isolate D19-1898, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480409.1,"PX480409.1 Dengue virus type 3 isolate D19-1897, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480408.1,"PX480408.1 Dengue virus type 3 isolate D19-1896, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480407.1,"PX480407.1 Dengue virus type 3 isolate D19-1871, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480406.1,"PX480406.1 Dengue virus type 3 isolate D19-1861, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480405.1,"PX480405.1 Dengue virus type 3 isolate D19-1831, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480404.1,"PX480404.1 Dengue virus type 3 isolate D19-1530, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480403.1,"PX480403.1 Dengue virus type 3 isolate D19-1287, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480402.1,"PX480402.1 Dengue virus type 3 isolate D19-1103, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480401.1,"PX480401.1 Dengue virus type 3 isolate D19-1094, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480400.1,"PX480400.1 Dengue virus type 3 isolate D19-0559, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480399.1,"PX480399.1 Dengue virus type 3 isolate D19-0558, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480398.1,"PX480398.1 Dengue virus type 3 isolate D19-0447, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480397.1,"PX480397.1 Dengue virus type 3 isolate D19-0337, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480396.1,"PX480396.1 Dengue virus type 3 isolate D19-0332, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480395.1,"PX480395.1 Dengue virus type 3 isolate D19-0142, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480394.1,"PX480394.1 Dengue virus type 3 isolate D19-0141, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480393.1,"PX480393.1 Dengue virus type 3 isolate D19-0140, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480392.1,"PX480392.1 Dengue virus type 3 isolate D19-0113, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480391.1,"PX480391.1 Dengue virus type 3 isolate D19-0021, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480390.1,"PX480390.1 Dengue virus type 3 isolate D18-3368, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480389.1,"PX480389.1 Dengue virus type 3 isolate D18-3322, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480388.1,"PX480388.1 Dengue virus type 3 isolate D18-3282, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480387.1,"PX480387.1 Dengue virus type 3 isolate D18-3077, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480386.1,"PX480386.1 Dengue virus type 3 isolate D18-3076, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480385.1,"PX480385.1 Dengue virus type 3 isolate D18-2954, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480384.1,"PX480384.1 Dengue virus type 3 isolate D18-2897, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480383.1,"PX480383.1 Dengue virus type 3 isolate D18-2883, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480382.1,"PX480382.1 Dengue virus type 3 isolate D18-2841, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480381.1,"PX480381.1 Dengue virus type 3 isolate D18-2787, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480380.1,"PX480380.1 Dengue virus type 3 isolate D18-2582, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480379.1,"PX480379.1 Dengue virus type 3 isolate D18-2531, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480378.1,"PX480378.1 Dengue virus type 3 isolate D18-2384, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480377.1,"PX480377.1 Dengue virus type 3 isolate D18-2300, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480376.1,"PX480376.1 Dengue virus type 3 isolate D18-2291, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480375.1,"PX480375.1 Dengue virus type 3 isolate D18-2287, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480374.1,"PX480374.1 Dengue virus type 3 isolate D18-2001, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480373.1,"PX480373.1 Dengue virus type 3 isolate D18-1999, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480372.1,"PX480372.1 Dengue virus type 3 isolate D18-1993, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480371.1,"PX480371.1 Dengue virus type 3 isolate D18-1991, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480370.1,"PX480370.1 Dengue virus type 3 isolate D18-1986, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480369.1,"PX480369.1 Dengue virus type 3 isolate D18-1932, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480368.1,"PX480368.1 Dengue virus type 3 isolate D18-1697, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480367.1,"PX480367.1 Dengue virus type 3 isolate D18-1684, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480366.1,"PX480366.1 Dengue virus type 3 isolate D18-1658, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480365.1,"PX480365.1 Dengue virus type 3 isolate D18-1380, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480364.1,"PX480364.1 Dengue virus type 3 isolate D18-1361, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480363.1,"PX480363.1 Dengue virus type 3 isolate D18-1342, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480362.1,"PX480362.1 Dengue virus type 3 isolate D18-1315, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480361.1,"PX480361.1 Dengue virus type 3 isolate D18-1202, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480360.1,"PX480360.1 Dengue virus type 3 isolate D18-0989, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480359.1,"PX480359.1 Dengue virus type 3 isolate D18-0978, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480358.1,"PX480358.1 Dengue virus type 3 isolate D18-0822, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480357.1,"PX480357.1 Dengue virus type 3 isolate D18-0775, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480356.1,"PX480356.1 Dengue virus type 3 isolate D18-0515, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480355.1,"PX480355.1 Dengue virus type 3 isolate D18-0457, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480354.1,"PX480354.1 Dengue virus type 3 isolate D18-0403, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480353.1,"PX480353.1 Dengue virus type 3 isolate D18-0361, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480352.1,"PX480352.1 Dengue virus type 3 isolate D18-0200, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480351.1,"PX480351.1 Dengue virus type 3 isolate D18-0169, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480350.1,"PX480350.1 Dengue virus type 3 isolate D18-0064, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480349.1,"PX480349.1 Dengue virus type 3 isolate D18-0052, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480348.1,"PX480348.1 Dengue virus type 3 isolate D18-0030, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480347.1,"PX480347.1 Dengue virus type 3 isolate D17-3024, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480346.1,"PX480346.1 Dengue virus type 3 isolate D17-2265, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480345.1,"PX480345.1 Dengue virus type 3 isolate D17-2232, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480344.1,"PX480344.1 Dengue virus type 3 isolate D17-1911, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480343.1,"PX480343.1 Dengue virus type 3 isolate D17-1829, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480342.1,"PX480342.1 Dengue virus type 3 isolate D17-1799, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480341.1,"PX480341.1 Dengue virus type 3 isolate D17-1790, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480340.1,"PX480340.1 Dengue virus type 3 isolate D17-1642, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480339.1,"PX480339.1 Dengue virus type 3 isolate D17-1464, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480338.1,"PX480338.1 Dengue virus type 3 isolate D17-1165, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480337.1,"PX480337.1 Dengue virus type 3 isolate D17-0764, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480336.1,"PX480336.1 Dengue virus type 3 isolate D17-0554, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480335.1,"PX480335.1 Dengue virus type 3 isolate D17-0445, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480334.1,"PX480334.1 Dengue virus type 3 isolate D17-0442, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480333.1,"PX480333.1 Dengue virus type 3 isolate D17-0131, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480332.1,"PX480332.1 Dengue virus type 3 isolate D17-0125, complete genome",Flaviviridae,10707,data/raw/flaviviridae.fasta
+PX480331.1,"PX480331.1 Dengue virus type 2 isolate D21-0290, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480330.1,"PX480330.1 Dengue virus type 2 isolate D19-2681, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480329.1,"PX480329.1 Dengue virus type 2 isolate D19-2668, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480328.1,"PX480328.1 Dengue virus type 2 isolate D19-2620, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480327.1,"PX480327.1 Dengue virus type 2 isolate D19-2610, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480326.1,"PX480326.1 Dengue virus type 2 isolate D19-2563, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480325.1,"PX480325.1 Dengue virus type 2 isolate D19-2535, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480324.1,"PX480324.1 Dengue virus type 2 isolate D19-2446, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480323.1,"PX480323.1 Dengue virus type 2 isolate D19-2445, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480322.1,"PX480322.1 Dengue virus type 2 isolate D19-2324, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480321.1,"PX480321.1 Dengue virus type 2 isolate D19-2249, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480320.1,"PX480320.1 Dengue virus type 2 isolate D19-2061, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480319.1,"PX480319.1 Dengue virus type 2 isolate D19-2044, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480318.1,"PX480318.1 Dengue virus type 2 isolate D19-1820, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480317.1,"PX480317.1 Dengue virus type 2 isolate D19-1678, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480316.1,"PX480316.1 Dengue virus type 2 isolate D19-1576, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480315.1,"PX480315.1 Dengue virus type 2 isolate D19-1559, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480314.1,"PX480314.1 Dengue virus type 2 isolate D19-1472, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480313.1,"PX480313.1 Dengue virus type 2 isolate D19-1325, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480312.1,"PX480312.1 Dengue virus type 2 isolate D18-3349, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480311.1,"PX480311.1 Dengue virus type 2 isolate D18-3201, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480310.1,"PX480310.1 Dengue virus type 2 isolate D18-2646, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480309.1,"PX480309.1 Dengue virus type 2 isolate D18-2292, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480308.1,"PX480308.1 Dengue virus type 2 isolate D18-1974, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480307.1,"PX480307.1 Dengue virus type 2 isolate D18-1693, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480306.1,"PX480306.1 Dengue virus type 2 isolate D18-1676, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480305.1,"PX480305.1 Dengue virus type 2 isolate D18-1556, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480304.1,"PX480304.1 Dengue virus type 2 isolate D18-1377, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480303.1,"PX480303.1 Dengue virus type 2 isolate D18-1165, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480302.1,"PX480302.1 Dengue virus type 2 isolate D18-1111, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480301.1,"PX480301.1 Dengue virus type 2 isolate D18-0217, complete genome",Flaviviridae,10723,data/raw/flaviviridae.fasta
+PX480300.1,"PX480300.1 Dengue virus type 1 isolate D21-0506, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480299.1,"PX480299.1 Dengue virus type 1 isolate D21-0358, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480298.1,"PX480298.1 Dengue virus type 1 isolate D20-0130, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480297.1,"PX480297.1 Dengue virus type 1 isolate D20-0106, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480296.1,"PX480296.1 Dengue virus type 1 isolate D19-2830, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480295.1,"PX480295.1 Dengue virus type 1 isolate D19-2715, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480294.1,"PX480294.1 Dengue virus type 1 isolate D19-2607, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480293.1,"PX480293.1 Dengue virus type 1 isolate D19-2489, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480292.1,"PX480292.1 Dengue virus type 1 isolate D19-2407, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480291.1,"PX480291.1 Dengue virus type 1 isolate D19-2373, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480290.1,"PX480290.1 Dengue virus type 1 isolate D19-2251, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480289.1,"PX480289.1 Dengue virus type 1 isolate D19-2205, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480288.1,"PX480288.1 Dengue virus type 1 isolate D19-2202, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480287.1,"PX480287.1 Dengue virus type 1 isolate D19-2197, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480286.1,"PX480286.1 Dengue virus type 1 isolate D19-2147, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480285.1,"PX480285.1 Dengue virus type 1 isolate D19-2141, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480284.1,"PX480284.1 Dengue virus type 1 isolate D19-2088, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480283.1,"PX480283.1 Dengue virus type 1 isolate D19-2056, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480282.1,"PX480282.1 Dengue virus type 1 isolate D19-2051, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480281.1,"PX480281.1 Dengue virus type 1 isolate D19-1995, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480280.1,"PX480280.1 Dengue virus type 1 isolate D19-1946, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480279.1,"PX480279.1 Dengue virus type 1 isolate D19-1894, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480278.1,"PX480278.1 Dengue virus type 1 isolate D19-1893, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480277.1,"PX480277.1 Dengue virus type 1 isolate D19-1865, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480276.1,"PX480276.1 Dengue virus type 1 isolate D19-1581, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480275.1,"PX480275.1 Dengue virus type 1 isolate D19-1320, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480274.1,"PX480274.1 Dengue virus type 1 isolate D19-1288, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480273.1,"PX480273.1 Dengue virus type 1 isolate D19-1283, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480272.1,"PX480272.1 Dengue virus type 1 isolate D19-1191, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480271.1,"PX480271.1 Dengue virus type 1 isolate D19-1187, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480270.1,"PX480270.1 Dengue virus type 1 isolate D18-3207, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480269.1,"PX480269.1 Dengue virus type 1 isolate D18-3093, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480268.1,"PX480268.1 Dengue virus type 1 isolate D18-2935, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480267.1,"PX480267.1 Dengue virus type 1 isolate D18-2893, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480266.1,"PX480266.1 Dengue virus type 1 isolate D18-2811, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480265.1,"PX480265.1 Dengue virus type 1 isolate D18-2277, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480264.1,"PX480264.1 Dengue virus type 1 isolate D18-2238, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480263.1,"PX480263.1 Dengue virus type 1 isolate D18-2054, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480262.1,"PX480262.1 Dengue virus type 1 isolate D18-2011, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480261.1,"PX480261.1 Dengue virus type 1 isolate D18-2000, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480260.1,"PX480260.1 Dengue virus type 1 isolate D18-1980, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480259.1,"PX480259.1 Dengue virus type 1 isolate D18-1602, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PX480258.1,"PX480258.1 Dengue virus type 1 isolate D18-1530, complete genome",Flaviviridae,10735,data/raw/flaviviridae.fasta
+PV700541.1,"PV700541.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_S8_2023, complete genome",Filoviridae,19048,data/raw/filoviridae.fasta
+PV700540.1,"PV700540.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_S7_2023, complete genome",Filoviridae,19054,data/raw/filoviridae.fasta
+PV700539.1,"PV700539.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_S6_2023, complete genome",Filoviridae,18943,data/raw/filoviridae.fasta
+PV700538.1,"PV700538.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_002_2025, complete genome",Filoviridae,19030,data/raw/filoviridae.fasta
+PV700537.1,"PV700537.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_001_2025, complete genome",Filoviridae,19070,data/raw/filoviridae.fasta
+OZ276552.1,"OZ276552.1 Zaire ebolavirus isolate Ebola virus/VECTOR/C.porcellus-lab/COD/1976/Mayinga_NML genome assembly, complete genome: monopartite",Filoviridae,18582,data/raw/filoviridae.fasta
+PX278686.1,"PX278686.1 Orthomarburgvirus marburgense strain Marburg virus/H. sapiens-tc/KEN/Mt. Elgon-Musoke F3, complete genome",Filoviridae,19112,data/raw/filoviridae.fasta
+PX278685.1,"PX278685.1 Orthomarburgvirus marburgense strain Marburg virus/H.sapien-tc/ANG/2004/Angola325, complete genome",Filoviridae,19113,data/raw/filoviridae.fasta
+NC_001608.4,"NC_001608.4 Marburg virus - Musoke, Kenya, 1980, complete genome",Filoviridae,19112,data/raw/filoviridae.fasta
+MW110478.1,"MW110478.1 Bat filovirus isolate Wanding virus/CHN/2016/ Bt-WD133, complete genome",Filoviridae,17627,data/raw/filoviridae.fasta
+OP924273.1,"OP924273.1 Dehong virus isolate CHN/2016/Rl133-16, complete genome",Filoviridae,20943,data/raw/filoviridae.fasta
+KX371887.3,"KX371887.3 Dianlovirus menglaense isolate Rousettus-wt/CHN/2015/Sharen-Bat9447-1, complete genome",Filoviridae,18555,data/raw/filoviridae.fasta
+DQ217792.2,"DQ217792.2 Marburg virus - Musoke, Kenya, 1980, complete genome",Filoviridae,19112,data/raw/filoviridae.fasta
+OQ672471.1,"OQ672471.1 Orthomarburgvirus marburgense isolate MV-22-114C/Ghana/2022, complete genome",Filoviridae,19049,data/raw/filoviridae.fasta
+OQ847644.1,"OQ847644.1 Mutant Orthomarburgvirus marburgense, complete genome",Filoviridae,19115,data/raw/filoviridae.fasta
+OQ630505.1,"OQ630505.1 Cuevavirus lloviuense isolate Hungary/2019/378, complete genome",Filoviridae,19019,data/raw/filoviridae.fasta
+OQ784121.1,"OQ784121.1 Mutant Zaire ebolavirus rMA-EBOV-ZsGnLuc, complete genome",Filoviridae,20233,data/raw/filoviridae.fasta
+OQ784120.1,"OQ784120.1 Mutant Zaire ebolavirus rMA-EBOV-nLuc-ZsG, complete genome",Filoviridae,20302,data/raw/filoviridae.fasta
+OQ784119.1,"OQ784119.1 Mutant Zaire ebolavirus rMA-EBOV-nLuc, complete genome",Filoviridae,19540,data/raw/filoviridae.fasta
+OQ784118.1,"OQ784118.1 Mutant Zaire ebolavirus rMA-EBOV-ZsG, complete genome",Filoviridae,19720,data/raw/filoviridae.fasta
+OQ784117.1,"OQ784117.1 Mutant Zaire ebolavirus rMA-EBOV, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+OQ892316.1,"OQ892316.1 Zaire ebolavirus isolate COY1925, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892315.1,"OQ892315.1 Zaire ebolavirus isolate CON1184, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892314.1,"OQ892314.1 Zaire ebolavirus isolate CON1183, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892313.1,"OQ892313.1 Zaire ebolavirus isolate FOR2439, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892312.1,"OQ892312.1 Zaire ebolavirus isolate DUB2223, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892311.1,"OQ892311.1 Zaire ebolavirus isolate CON2451, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892310.1,"OQ892310.1 Zaire ebolavirus isolate CON2452, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892309.1,"OQ892309.1 Zaire ebolavirus isolate PIT965, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892308.1,"OQ892308.1 Zaire ebolavirus isolate CON2231, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892307.1,"OQ892307.1 Zaire ebolavirus isolate CON1479, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892306.1,"OQ892306.1 Zaire ebolavirus isolate CON1508, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892305.1,"OQ892305.1 Zaire ebolavirus isolate DUB2224, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892304.1,"OQ892304.1 Zaire ebolavirus isolate CON2489, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892303.1,"OQ892303.1 Zaire ebolavirus isolate CON1437, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892302.1,"OQ892302.1 Zaire ebolavirus isolate FOR2456, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892301.1,"OQ892301.1 Zaire ebolavirus isolate COY2146, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892300.1,"OQ892300.1 Zaire ebolavirus isolate CON2135, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892299.1,"OQ892299.1 Zaire ebolavirus isolate CON2454, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892298.1,"OQ892298.1 Zaire ebolavirus isolate COY2448, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892297.1,"OQ892297.1 Zaire ebolavirus isolate TEL2455, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892296.1,"OQ892296.1 Zaire ebolavirus isolate CON2136, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892295.1,"OQ892295.1 Zaire ebolavirus isolate COY2229, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892294.1,"OQ892294.1 Zaire ebolavirus isolate FOR2221, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ348598.1,"OQ348598.1 Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2019/Ituri-MAN5036, complete genome",Filoviridae,18937,data/raw/filoviridae.fasta
+OQ348597.1,"OQ348597.1 Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Ituri-20FHV036, complete genome",Filoviridae,18814,data/raw/filoviridae.fasta
+OQ348596.1,"OQ348596.1 Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Ituri-20FHV037, complete genome",Filoviridae,18814,data/raw/filoviridae.fasta
+ON186772.1,"ON186772.1 Lloviu cuevavirus isolate Italy/2021, complete genome",Filoviridae,18861,data/raw/filoviridae.fasta
+ON871047.1,"ON871047.1 Mutant Bombali ebolavirus Bombali virus FLI/Huh-7-rec/GER/2021/42BB.AJ.3, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+MZ541881.1,"MZ541881.1 Lloviu cuevavirus isolate Hungary/2019/378, complete genome",Filoviridae,19019,data/raw/filoviridae.fasta
+OL702894.1,"OL702894.1 Orthomarburgvirus marburgense isolate MARV001, complete genome",Filoviridae,19058,data/raw/filoviridae.fasta
+MZ605321.1,"MZ605321.1 Zaire ebolavirus strain EBO-0003, complete genome",Filoviridae,18886,data/raw/filoviridae.fasta
+MZ605320.1,"MZ605320.1 Zaire ebolavirus strain EBO-0002, complete genome",Filoviridae,18830,data/raw/filoviridae.fasta
+MT583342.1,"MT583342.1 Zaire ebolavirus culture BEI<USA_:NR_51690, complete genome",Filoviridae,18943,data/raw/filoviridae.fasta
+MT583341.1,"MT583341.1 Zaire ebolavirus culture BEI<USA_:NR_51689, complete genome",Filoviridae,18950,data/raw/filoviridae.fasta
+MT583340.1,"MT583340.1 Zaire ebolavirus culture BEI<USA_:NR_51688, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MT583339.1,"MT583339.1 Zaire ebolavirus culture BEI<USA_:NR_51687, complete genome",Filoviridae,18950,data/raw/filoviridae.fasta
+MT583344.1,"MT583344.1 Bundibugyo virus culture BEI<USA_:NR_51692, complete genome",Filoviridae,18942,data/raw/filoviridae.fasta
+MT583343.1,"MT583343.1 Bundibugyo virus culture BEI<USA_:NR_51691, complete genome",Filoviridae,18941,data/raw/filoviridae.fasta
+MT583348.1,"MT583348.1 Sudan ebolavirus culture BEI<USA_:NR_51696, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MT583347.1,"MT583347.1 Sudan ebolavirus culture BEI<USA_:NR_51695, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MT583346.1,"MT583346.1 Sudan ebolavirus culture BEI<USA_:NR_51694, complete genome",Filoviridae,18866,data/raw/filoviridae.fasta
+MT583345.1,"MT583345.1 Sudan ebolavirus culture BEI<USA_:NR_51693, complete genome",Filoviridae,18866,data/raw/filoviridae.fasta
+MT586762.1,"MT586762.1 Orthomarburgvirus marburgense isolate BEI NR_51697, complete genome",Filoviridae,19105,data/raw/filoviridae.fasta
+NC_055510.1,"NC_055510.1 Mengla dianlovirus isolate Rousettus-wt/CHN/2015/Sharen-Bat9447-1, complete genome",Filoviridae,18300,data/raw/filoviridae.fasta
+MW345251.1,"MW345251.1 Zaire ebolavirus isolate EBOV/H.sap.-tc/LBR/2014/Makona-201403621, complete genome",Filoviridae,18959,data/raw/filoviridae.fasta
+MW056493.1,"MW056493.1 Bombali virus isolate Z153, complete genome",Filoviridae,19025,data/raw/filoviridae.fasta
+MW056492.1,"MW056492.1 Bombali virus isolate X030, complete genome",Filoviridae,19025,data/raw/filoviridae.fasta
+MT742157.1,"MT742157.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-201200120-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680262.1,"MT680262.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120022-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680261.1,"MT680261.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120130, complete genome",Filoviridae,18277,data/raw/filoviridae.fasta
+MT680260.1,"MT680260.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120116-3, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680258.1,"MT680258.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120074-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680257.1,"MT680257.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120109-2, complete genome",Filoviridae,18277,data/raw/filoviridae.fasta
+MT680254.1,"MT680254.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120135, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680253.1,"MT680253.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120130, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680252.1,"MT680252.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120120-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680250.1,"MT680250.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120074-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680248.1,"MT680248.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-201200004, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680246.1,"MT680246.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120143-3, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680245.1,"MT680245.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120022-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT796851.1,"MT796851.1 Reston ebolavirus isolate R08, complete genome",Filoviridae,18848,data/raw/filoviridae.fasta
+MK952150.1,"MK952150.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-wt/SSD/1976/Maridi-BNI/DT, complete genome",Filoviridae,18847,data/raw/filoviridae.fasta
+MK672825.1,"MK672825.1 Mutant Zaire ebolavirus strain recEBOV-DRC2018-ZsG, complete genome",Filoviridae,19724,data/raw/filoviridae.fasta
+MK672824.1,"MK672824.1 Zaire ebolavirus strain recEBOV-DRC2018, complete genome",Filoviridae,18962,data/raw/filoviridae.fasta
+MN258361.1,"MN258361.1 Orthomarburgvirus marburgense isolate PREDICT_SLAB3960 Kakbat_SL_2017, complete genome",Filoviridae,19100,data/raw/filoviridae.fasta
+MN187406.1,"MN187406.1 Orthomarburgvirus marburgense strain 960LNKasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN187405.1,"MN187405.1 Orthomarburgvirus marburgense strain 960Kasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN187404.1,"MN187404.1 Orthomarburgvirus marburgense strain 968Kasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN187403.1,"MN187403.1 Orthomarburgvirus marburgense strain 1000Kasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN416402.1,"MN416402.1 Zaire ebolavirus isolate Ebola virus NML/BALB/c-lab/GIN/2014/Makona-Gueckedou-C07-rgMA, complete genome",Filoviridae,18959,data/raw/filoviridae.fasta
+MK028856.1,"MK028856.1 Bundibugyo virus isolate Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291, complete genome",Filoviridae,18940,data/raw/filoviridae.fasta
+MK028855.1,"MK028855.1 UNVERIFIED: Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-R4317a, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MK028835.1,"MK028835.1 Bundibugyo virus isolate Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291, complete genome",Filoviridae,18936,data/raw/filoviridae.fasta
+MK028834.1,"MK028834.1 Bundibugyo virus isolate Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-R4386L, complete genome",Filoviridae,18917,data/raw/filoviridae.fasta
+MH121169.1,"MH121169.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Sudan/2004/Yambio-HCM/SAV/017, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MH121168.1,"MH121168.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/Zaire/1976/Mayinga-R3816, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MH121167.1,"MH121167.1 Tai Forest ebolavirus isolate Ebola virus/H.sapiens-tc/Cote d'Ivoire/1994/Tai Forest-R4371, complete genome",Filoviridae,18890,data/raw/filoviridae.fasta
+MH121166.1,"MH121166.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MH121165.1,"MH121165.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome",Filoviridae,18959,data/raw/filoviridae.fasta
+MH121164.1,"MH121164.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MH121163.1,"MH121163.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Uganda/2000/Gulu-200011676, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MH121162.1,"MH121162.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Sudan/1976/Boniface-R4142L, complete genome",Filoviridae,18849,data/raw/filoviridae.fasta
+MH121161.1,"MH121161.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/Sierra Leone/2014/Makona-SLE 3864-1-R4491, complete genome",Filoviridae,18742,data/raw/filoviridae.fasta
+MG572235.1,"MG572235.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MG572234.1,"MG572234.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C15, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MG572233.1,"MG572233.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C07, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MG572232.1,"MG572232.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C05, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MG572231.1,"MG572231.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C15, complete genome",Filoviridae,18912,data/raw/filoviridae.fasta
+MG572230.1,"MG572230.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C07, complete genome",Filoviridae,18912,data/raw/filoviridae.fasta
+MK271062.1,"MK271062.1 Mutant Orthomarburgvirus marburgense strain recombinant MARV-ZsG, complete genome",Filoviridae,19875,data/raw/filoviridae.fasta
+MH425138.1,"MH425138.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/LBR/2014/Makona-LIBR140809, complete genome",Filoviridae,18937,data/raw/filoviridae.fasta
+MK731994.1,"MK731994.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN167-MANA5-14, complete genome",Filoviridae,18935,data/raw/filoviridae.fasta
+MK731993.1,"MK731993.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN167-MANA5-11, complete genome",Filoviridae,18919,data/raw/filoviridae.fasta
+MK731992.1,"MK731992.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN165-MANA3-20, complete genome",Filoviridae,18946,data/raw/filoviridae.fasta
+MK731990.1,"MK731990.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-17, complete genome",Filoviridae,18945,data/raw/filoviridae.fasta
+MK731989.1,"MK731989.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-16, complete genome",Filoviridae,18907,data/raw/filoviridae.fasta
+MK731988.1,"MK731988.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-13, complete genome",Filoviridae,18945,data/raw/filoviridae.fasta
+MK731987.1,"MK731987.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-11, complete genome",Filoviridae,18889,data/raw/filoviridae.fasta
+MK731986.1,"MK731986.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN163-MANA2-16, complete genome",Filoviridae,18912,data/raw/filoviridae.fasta
+MK731985.1,"MK731985.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN163-MANA2-13, complete genome",Filoviridae,18903,data/raw/filoviridae.fasta
+MK340750.1,"MK340750.1 Bombali virus isolate B241, complete genome",Filoviridae,19025,data/raw/filoviridae.fasta
+KU174142.1,"KU174142.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-SUDV_GP, complete genome",Filoviridae,19774,data/raw/filoviridae.fasta
+KU174141.1,"KU174141.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-MARV_GPed, complete genome",Filoviridae,19769,data/raw/filoviridae.fasta
+KU174140.1,"KU174140.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-MARV_GP, complete genome",Filoviridae,19790,data/raw/filoviridae.fasta
+KU174139.1,"KU174139.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-LLOV_GP, complete genome",Filoviridae,19897,data/raw/filoviridae.fasta
+KU174138.1,"KU174138.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GPdelta_sGP, complete genome",Filoviridae,19775,data/raw/filoviridae.fasta
+KU174137.1,"KU174137.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP, complete genome",Filoviridae,19774,data/raw/filoviridae.fasta
+MK088515.1,"MK088515.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2017/Muyembe-18FHV012b, complete genome",Filoviridae,18934,data/raw/filoviridae.fasta
+MF319186.1,"MF319186.1 Bombali virus isolate Bombali virus/C.pumilus-wt/SLE/2016/Northern Province-PREDICT_SLAB000047, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+MF319185.1,"MF319185.1 Bombali virus isolate Bombali virus/M.condylurus-wt/SLE/2016/Northern Province-PREDICT_SLAB000156, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+NC_014373.1,"NC_014373.1 Bundibugyo ebolavirus, complete genome",Filoviridae,18940,data/raw/filoviridae.fasta
+MK007344.1,"MK007344.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN065, complete genome",Filoviridae,18938,data/raw/filoviridae.fasta
+MK007343.1,"MK007343.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN048, complete genome",Filoviridae,18913,data/raw/filoviridae.fasta
+MK007342.1,"MK007342.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN046, complete genome",Filoviridae,18905,data/raw/filoviridae.fasta
+MK007341.1,"MK007341.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN042, complete genome",Filoviridae,18938,data/raw/filoviridae.fasta
+MK007340.1,"MK007340.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN040, complete genome",Filoviridae,18943,data/raw/filoviridae.fasta
+MK007339.1,"MK007339.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN039, complete genome",Filoviridae,18945,data/raw/filoviridae.fasta
+MK007337.1,"MK007337.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN036, complete genome",Filoviridae,18948,data/raw/filoviridae.fasta
+MK007336.1,"MK007336.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN028, complete genome",Filoviridae,18901,data/raw/filoviridae.fasta
+MK007335.1,"MK007335.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN025, complete genome",Filoviridae,18905,data/raw/filoviridae.fasta
+MK007334.1,"MK007334.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN020, complete genome",Filoviridae,18924,data/raw/filoviridae.fasta
+MK007333.1,"MK007333.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN006, complete genome",Filoviridae,18876,data/raw/filoviridae.fasta
+MK007332.1,"MK007332.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN003, complete genome",Filoviridae,18921,data/raw/filoviridae.fasta
+MK007331.1,"MK007331.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN002, complete genome",Filoviridae,18908,data/raw/filoviridae.fasta
+MK007330.1,"MK007330.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-18FHV090, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MK007329.1,"MK007329.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-18FHV089, complete genome",Filoviridae,18946,data/raw/filoviridae.fasta
+NC_039345.1,"NC_039345.1 Bombali ebolavirus isolate Bombali ebolavirus/Mops condylurus/SLE/2016/PREDICT_SLAB000156, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+MH733491.1,"MH733491.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK137, complete genome",Filoviridae,18939,data/raw/filoviridae.fasta
+MH733490.1,"MH733490.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK091, complete genome",Filoviridae,18932,data/raw/filoviridae.fasta
+MH733489.1,"MH733489.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK055, complete genome",Filoviridae,18913,data/raw/filoviridae.fasta
+MH733488.1,"MH733488.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK053, complete genome",Filoviridae,18942,data/raw/filoviridae.fasta
+MH733487.1,"MH733487.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK046, complete genome",Filoviridae,18919,data/raw/filoviridae.fasta
+MH733486.1,"MH733486.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK045, complete genome",Filoviridae,18914,data/raw/filoviridae.fasta
+MH733485.1,"MH733485.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK039, complete genome",Filoviridae,18940,data/raw/filoviridae.fasta
+MH733484.1,"MH733484.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK037, complete genome",Filoviridae,18905,data/raw/filoviridae.fasta
+MH733483.1,"MH733483.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK031, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MH733482.1,"MH733482.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK026, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MH733481.1,"MH733481.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK025, complete genome",Filoviridae,18939,data/raw/filoviridae.fasta
+MH733480.1,"MH733480.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK019, complete genome",Filoviridae,18938,data/raw/filoviridae.fasta
+MH733479.1,"MH733479.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK016, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MH733478.1,"MH733478.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK011, complete genome",Filoviridae,18941,data/raw/filoviridae.fasta
+MH733477.1,"MH733477.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK009, complete genome",Filoviridae,18894,data/raw/filoviridae.fasta
+KY786027.1,"KY786027.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCL053D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786026.1,"KY786026.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCL053D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786025.1,"KY786025.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCL053D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786024.1,"KY786024.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCJ046D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786023.1,"KY786023.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCJ046D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786022.1,"KY786022.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCJ046d10, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786021.1,"KY786021.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCI036D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786020.1,"KY786020.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCI036D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786019.1,"KY786019.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCI036D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786018.1,"KY786018.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786017.1,"KY786017.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786016.1,"KY786016.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786015.1,"KY786015.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786014.1,"KY786014.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786013.1,"KY786013.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786012.1,"KY786012.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D3, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786011.1,"KY786011.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC034D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786010.1,"KY786010.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC034D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786009.1,"KY786009.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC034D10, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786008.1,"KY786008.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786007.1,"KY786007.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786006.1,"KY786006.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786005.1,"KY786005.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D3, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786004.1,"KY786004.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC017D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786003.1,"KY786003.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC017D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786002.1,"KY786002.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC017D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786001.1,"KY786001.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786000.1,"KY786000.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785999.1,"KY785999.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785998.1,"KY785998.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB120D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785997.1,"KY785997.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB120D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785996.1,"KY785996.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB979D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785995.1,"KY785995.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB979D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785994.1,"KY785994.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB979D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785993.1,"KY785993.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB819D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785992.1,"KY785992.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB819D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785991.1,"KY785991.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB819D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+PX529387.1,"PX529387.1 Avian leukosis virus isolate MYA-Kerbala-1, complete genome",Retroviridae,7791,data/raw/retroviridae.fasta
+PX529386.1,"PX529386.1 Avian endogenous retrovirus EAV-HP isolate MYA-Kerbala-1, complete genome",Retroviridae,4441,data/raw/retroviridae.fasta
+PX549784.1,"PX549784.1 Avian leukosis virus isolate GD24NH05, complete genome",Retroviridae,7482,data/raw/retroviridae.fasta
+PX549783.1,"PX549783.1 Avian leukosis virus isolate GD24NH3635, complete genome",Retroviridae,7492,data/raw/retroviridae.fasta
+PX549782.1,"PX549782.1 Avian leukosis virus isolate GD24LHB130, complete genome",Retroviridae,7705,data/raw/retroviridae.fasta
+PV805466.1,"PV805466.1 Human T-cell leukemia virus type I isolate PH1505, complete genome",Retroviridae,9039,data/raw/retroviridae.fasta
+PV805465.1,"PV805465.1 Human T-cell leukemia virus type I isolate PH1503, complete genome",Retroviridae,9039,data/raw/retroviridae.fasta
+PV805464.1,"PV805464.1 Human T-cell leukemia virus type I isolate PH1210, complete genome",Retroviridae,8779,data/raw/retroviridae.fasta
+PV805463.1,"PV805463.1 Human T-cell leukemia virus type I isolate PH1040, complete genome",Retroviridae,9037,data/raw/retroviridae.fasta
+PV805462.1,"PV805462.1 Human T-cell leukemia virus type I isolate PH1002, complete genome",Retroviridae,9037,data/raw/retroviridae.fasta
+PV805461.1,"PV805461.1 Human T-cell leukemia virus type I isolate PH561, complete genome",Retroviridae,9037,data/raw/retroviridae.fasta
+PV805460.1,"PV805460.1 Human T-cell leukemia virus type I isolate PH489, complete genome",Retroviridae,9035,data/raw/retroviridae.fasta
+PX735133.1,"PX735133.1 HIV-1 strain HIV1/BF/BuenosAires/Arg/001/2016 from Argentina, complete genome",Retroviridae,8888,data/raw/retroviridae.fasta
+PX717093.1,"PX717093.1 HIV-1 isolate BC033_V2_proviral_10_Intact from Canada, complete genome",Retroviridae,8967,data/raw/retroviridae.fasta
+PX717092.1,"PX717092.1 HIV-1 isolate BC033_V2_proviral_9_Intact from Canada, complete genome",Retroviridae,8991,data/raw/retroviridae.fasta
+PX717091.1,"PX717091.1 HIV-1 isolate BC033_V2_proviral_8_Intact from Canada, complete genome",Retroviridae,8991,data/raw/retroviridae.fasta
+PX717090.1,"PX717090.1 HIV-1 isolate BC033_V2_proviral_7_Intact from Canada, complete genome",Retroviridae,8991,data/raw/retroviridae.fasta
+PX717089.1,"PX717089.1 HIV-1 isolate BC033_V2_proviral_6_Intact from Canada, complete genome",Retroviridae,8991,data/raw/retroviridae.fasta
+PX717088.1,"PX717088.1 HIV-1 isolate BC033_V2_proviral_5_Intact from Canada, complete genome",Retroviridae,8967,data/raw/retroviridae.fasta
+PX717087.1,"PX717087.1 HIV-1 isolate BC033_V2_proviral_4_Intact from Canada, complete genome",Retroviridae,8991,data/raw/retroviridae.fasta
+PX717086.1,"PX717086.1 HIV-1 isolate BC033_V2_proviral_3_Intact from Canada, complete genome",Retroviridae,8991,data/raw/retroviridae.fasta
+PX717085.1,"PX717085.1 HIV-1 isolate BC033_V2_proviral_2_Intact from Canada, complete genome",Retroviridae,8967,data/raw/retroviridae.fasta
+PX717084.1,"PX717084.1 HIV-1 isolate BC033_V2_proviral_1_Intact from Canada, complete genome",Retroviridae,8967,data/raw/retroviridae.fasta
+PX653454.1,"PX653454.1 HIV-1 isolate YAK from Russia, complete genome",Retroviridae,9747,data/raw/retroviridae.fasta
+PX653453.1,"PX653453.1 HIV-1 isolate SMA from Russia, complete genome",Retroviridae,9818,data/raw/retroviridae.fasta
+PX653452.1,"PX653452.1 HIV-1 isolate KOD from Russia, complete genome",Retroviridae,9750,data/raw/retroviridae.fasta
+PX763904.1,"PX763904.1 Avian leukosis virus isolate SD2501-1, complete genome",Retroviridae,7569,data/raw/retroviridae.fasta
+PX466083.1,"PX466083.1 HIV-1 isolate 9254-wk26-5-L6_S137_L001_001 from Germany, complete genome",Retroviridae,9020,data/raw/retroviridae.fasta
+PX466082.1,"PX466082.1 HIV-1 isolate 9254-wk42-pl4-C15_S211_L001_001 from Germany, complete genome",Retroviridae,9048,data/raw/retroviridae.fasta
+PX466081.1,"PX466081.1 HIV-1 isolate 9254-wk78-pl2-O17_S223_L001_001 from Germany, complete genome",Retroviridae,9108,data/raw/retroviridae.fasta
+PX466080.1,"PX466080.1 HIV-1 isolate 9254-wk78-pl5-B4_S303_L001_001 from Germany, complete genome",Retroviridae,9082,data/raw/retroviridae.fasta
+PX466079.1,"PX466079.1 HIV-1 isolate 9254-wk78-pl5-P6_S306_L001_001 from Germany, complete genome",Retroviridae,9116,data/raw/retroviridae.fasta
+PX466078.1,"PX466078.1 HIV-1 isolate 9254-wk78-pl3-F9_S240_L001_001 from Germany, complete genome",Retroviridae,9055,data/raw/retroviridae.fasta
+PX466077.1,"PX466077.1 HIV-1 isolate 9254-wk42-pl1-M4_S150_L001_001 from Germany, complete genome",Retroviridae,9066,data/raw/retroviridae.fasta
+PX466076.1,"PX466076.1 HIV-1 isolate 9254-wk42-pl2-J14_S333_L001_001 from Germany, complete genome",Retroviridae,9019,data/raw/retroviridae.fasta
+PX466075.1,"PX466075.1 HIV-1 isolate 9254-wk26-4-A6_S90_L001_001 from Germany, complete genome",Retroviridae,9103,data/raw/retroviridae.fasta
+PX466074.1,"PX466074.1 HIV-1 isolate 9254-wk78-pl3-O1_S241_L001_001 from Germany, complete genome",Retroviridae,9055,data/raw/retroviridae.fasta
+PX466073.1,"PX466073.1 HIV-1 isolate 9254-wk78-pl3-B3_S265_L001_001 from Germany, complete genome",Retroviridae,9159,data/raw/retroviridae.fasta
+PX466072.1,"PX466072.1 HIV-1 isolate 9254-wk102-pl2-L2_S246_L001_001 from Germany, complete genome",Retroviridae,9086,data/raw/retroviridae.fasta
+PX466071.1,"PX466071.1 HIV-1 isolate 9254-wk42-pl5-B8_S242_L001_001 from Germany, complete genome",Retroviridae,9017,data/raw/retroviridae.fasta
+PX466070.1,"PX466070.1 HIV-1 isolate 9254-wk42-pl4-I20_S216_L001_001 from Germany, complete genome",Retroviridae,9077,data/raw/retroviridae.fasta
+PX466069.1,"PX466069.1 HIV-1 isolate 9254-wk26-1-I15_S230_L001_001 from Germany, complete genome",Retroviridae,9029,data/raw/retroviridae.fasta
+PX466068.1,"PX466068.1 HIV-1 isolate 9254-wk42-pl5-G12_S352_L001_001 from Germany, complete genome",Retroviridae,9079,data/raw/retroviridae.fasta
+PX466067.1,"PX466067.1 HIV-1 isolate 9254-wk42-pl5-B21_S146_L001_001-2 from Germany, complete genome",Retroviridae,9007,data/raw/retroviridae.fasta
+PX466066.1,"PX466066.1 HIV-1 isolate 9254-wk78-pl2-O23_S226_L001_001 from Germany, complete genome",Retroviridae,9070,data/raw/retroviridae.fasta
+PX466065.1,"PX466065.1 HIV-1 isolate 9254-wk42-pl4-I3_S339_L001_001 from Germany, complete genome",Retroviridae,9030,data/raw/retroviridae.fasta
+PX466064.1,"PX466064.1 HIV-1 isolate 9254-wk78-pl1-B5_S218_L001_001 from Germany, complete genome",Retroviridae,9117,data/raw/retroviridae.fasta
+PX466063.1,"PX466063.1 HIV-1 isolate 9254-wk78-pl3-N3_S242_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX466062.1,"PX466062.1 HIV-1 isolate 9254-wk42-pl4-P10_S208_L001_001 from Germany, complete genome",Retroviridae,9091,data/raw/retroviridae.fasta
+PX466061.1,"PX466061.1 HIV-1 isolate 9254-wk42-pl2-L20_S331_L001_001 from Germany, complete genome",Retroviridae,9018,data/raw/retroviridae.fasta
+PX466060.1,"PX466060.1 HIV-1 isolate 9254-wk78-pl3-L9_S239_L001_001 from Germany, complete genome",Retroviridae,9067,data/raw/retroviridae.fasta
+PX466059.1,"PX466059.1 HIV-1 isolate 9254-wk42-pl4-E23_S337_L001_001 from Germany, complete genome",Retroviridae,9032,data/raw/retroviridae.fasta
+PX466058.1,"PX466058.1 HIV-1 isolate 9254-wk26-5-J19_S134_L001_001 from Germany, complete genome",Retroviridae,9065,data/raw/retroviridae.fasta
+PX466057.1,"PX466057.1 HIV-1 isolate 9254-wk42-pl4-I7_S213_L001_001 from Germany, complete genome",Retroviridae,9101,data/raw/retroviridae.fasta
+PX466056.1,"PX466056.1 HIV-1 isolate 9254-wk42-pl2-O11_S191_L001_001 from Germany, complete genome",Retroviridae,9025,data/raw/retroviridae.fasta
+PX466055.1,"PX466055.1 HIV-1 isolate 9254-wk78-pl2-D18_S239_L001_001 from Germany, complete genome",Retroviridae,9040,data/raw/retroviridae.fasta
+PX466054.1,"PX466054.1 HIV-1 isolate 9254-wk42-pl5-A10_S246_L001_001 from Germany, complete genome",Retroviridae,9105,data/raw/retroviridae.fasta
+PX466053.1,"PX466053.1 HIV-1 isolate 9254-wk42-pl4-L15_S210_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX466052.1,"PX466052.1 HIV-1 isolate 9254-wk102-pl5-H18_S301_L001_001 from Germany, complete genome",Retroviridae,9055,data/raw/retroviridae.fasta
+PX466051.1,"PX466051.1 HIV-1 isolate 9254-wk102-pl1-L12_S230_L001_001 from Germany, complete genome",Retroviridae,9039,data/raw/retroviridae.fasta
+PX466050.1,"PX466050.1 HIV-1 isolate 9254-wk78-pl5-C4_S267_L001_001 from Germany, complete genome",Retroviridae,9065,data/raw/retroviridae.fasta
+PX466049.1,"PX466049.1 HIV-1 isolate 9254-wk102-pl5-K24_S300_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX466048.1,"PX466048.1 HIV-1 isolate 9254-wk102-pl4-K16_S275_L001_001 from Germany, complete genome",Retroviridae,9090,data/raw/retroviridae.fasta
+PX466047.1,"PX466047.1 HIV-1 isolate 9254-wk102-pl5-L13_S298_L001_001 from Germany, complete genome",Retroviridae,9051,data/raw/retroviridae.fasta
+PX466046.1,"PX466046.1 HIV-1 isolate 9254-wk42-pl4-J18_S212_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX466045.1,"PX466045.1 HIV-1 isolate 9254-wk26-5-I11_S129_L001_001 from Germany, complete genome",Retroviridae,9043,data/raw/retroviridae.fasta
+PX466044.1,"PX466044.1 HIV-1 isolate 9254-wk42-pl5-P14_S355_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX466043.1,"PX466043.1 HIV-1 isolate 9254-wk42-pl2-M14_S330_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX466042.1,"PX466042.1 HIV-1 isolate 9254-wk26-5-D14_S121_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX466041.1,"PX466041.1 HIV-1 isolate 9254-wk78-pl3-N2_S264_L001_001 from Germany, complete genome",Retroviridae,9067,data/raw/retroviridae.fasta
+PX466040.1,"PX466040.1 HIV-1 isolate 9254-wk78-pl5-P5_S301_L001_001 from Germany, complete genome",Retroviridae,9053,data/raw/retroviridae.fasta
+PX466039.1,"PX466039.1 HIV-1 isolate 9254-wk78-pl3-B23_S269_L001_001 from Germany, complete genome",Retroviridae,9053,data/raw/retroviridae.fasta
+PX466038.1,"PX466038.1 HIV-1 isolate 9254-wk78-pl2-D19_S244_L001_001 from Germany, complete genome",Retroviridae,9051,data/raw/retroviridae.fasta
+PX466037.1,"PX466037.1 HIV-1 isolate 9254-wk26-5-A1_S112_L001_001 from Germany, complete genome",Retroviridae,9051,data/raw/retroviridae.fasta
+PX466036.1,"PX466036.1 HIV-1 isolate 9254-wk42-pl1-E12_S320_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX466035.1,"PX466035.1 HIV-1 isolate 9254-wk26-4-K6_S107_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX466034.1,"PX466034.1 HIV-1 isolate 9254-wk102-pl3-I3_S199_L001_001 from Germany, complete genome",Retroviridae,9048,data/raw/retroviridae.fasta
+PX466033.1,"PX466033.1 HIV-1 isolate 9254-wk78-pl3-L20_S244_L001_001 from Germany, complete genome",Retroviridae,9048,data/raw/retroviridae.fasta
+PX466032.1,"PX466032.1 HIV-1 isolate 9254-wk26-4-F18_S101_L001_001 from Germany, complete genome",Retroviridae,9048,data/raw/retroviridae.fasta
+PX466031.1,"PX466031.1 HIV-1 isolate 9254-wk42-pl5-L22_S348_L001_001 from Germany, complete genome",Retroviridae,9036,data/raw/retroviridae.fasta
+PX466030.1,"PX466030.1 HIV-1 isolate 9254-wk26-4-B3_S93_L001_001 from Germany, complete genome",Retroviridae,9036,data/raw/retroviridae.fasta
+PX466029.1,"PX466029.1 HIV-1 isolate 9254-wk102-pl1-H21_S233_L001_001 from Germany, complete genome",Retroviridae,9012,data/raw/retroviridae.fasta
+PX466028.1,"PX466028.1 HIV-1 isolate 9254-wk102-pl5-I9_S295_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX466027.1,"PX466027.1 HIV-1 isolate 9254-wk42-pl1-O17_S151_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX466026.1,"PX466026.1 HIV-1 isolate 9254-wk78-pl2-O21_S224_L001_001 from Germany, complete genome",Retroviridae,9031,data/raw/retroviridae.fasta
+PX466025.1,"PX466025.1 HIV-1 isolate 9254-wk26-5-K21_S136_L001_001 from Germany, complete genome",Retroviridae,9031,data/raw/retroviridae.fasta
+PX466024.1,"PX466024.1 HIV-1 isolate 9254-wk26-3-K21_S77_L001_001 from Germany, complete genome",Retroviridae,9069,data/raw/retroviridae.fasta
+PX466023.1,"PX466023.1 HIV-1 isolate 9254-wk102-pl1-H8_S231_L001_001 from Germany, complete genome",Retroviridae,9042,data/raw/retroviridae.fasta
+PX466022.1,"PX466022.1 HIV-1 isolate 9254-wk42-pl2-F23_S190_L001_001 from Germany, complete genome",Retroviridae,9040,data/raw/retroviridae.fasta
+PX466021.1,"PX466021.1 HIV-1 isolate 9254-wk42-pl1-M2_S319_L001_001 from Germany, complete genome",Retroviridae,9040,data/raw/retroviridae.fasta
+PX466020.1,"PX466020.1 HIV-1 isolate 9254-wk42-pl1-K9_S321_L001_001 from Germany, complete genome",Retroviridae,9043,data/raw/retroviridae.fasta
+PX466019.1,"PX466019.1 HIV-1 isolate 9254-wk26-5-M3_S138_L001_001 from Germany, complete genome",Retroviridae,9066,data/raw/retroviridae.fasta
+PX466018.1,"PX466018.1 HIV-1 isolate 9254-wk26-3-P23_S88_L001_001 from Germany, complete genome",Retroviridae,9099,data/raw/retroviridae.fasta
+PX466017.1,"PX466017.1 HIV-1 isolate 9254-wk26-3-I4_S69_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX466016.1,"PX466016.1 HIV-1 isolate 9254-wk102-pl5-G21_S299_L001_001 from Germany, complete genome",Retroviridae,9060,data/raw/retroviridae.fasta
+PX466015.1,"PX466015.1 HIV-1 isolate 9254-wk78-pl1-E4_S221_L001_001 from Germany, complete genome",Retroviridae,9006,data/raw/retroviridae.fasta
+PX466014.1,"PX466014.1 HIV-1 isolate 9254-wk26-5-F10_S124_L001_001 from Germany, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX466013.1,"PX466013.1 HIV-1 isolate 9254-wk26-4-I13_S105_L001_001 from Germany, complete genome",Retroviridae,9010,data/raw/retroviridae.fasta
+PX466012.1,"PX466012.1 HIV-1 isolate 9254-wk26-4-D3_S97_L001_001 from Germany, complete genome",Retroviridae,9030,data/raw/retroviridae.fasta
+PX466011.1,"PX466011.1 HIV-1 isolate 9254-wk26-4-A4_S89_L001_001 from Germany, complete genome",Retroviridae,9055,data/raw/retroviridae.fasta
+PX466010.1,"PX466010.1 HIV-1 isolate 9254-wk26-2-O12_S51_L001_001 from Germany, complete genome",Retroviridae,9051,data/raw/retroviridae.fasta
+PX466009.1,"PX466009.1 HIV-1 isolate 9254-wk26-2-I20_S44_L001_001 from Germany, complete genome",Retroviridae,9052,data/raw/retroviridae.fasta
+PX466008.1,"PX466008.1 HIV-1 isolate 9254-wk78-pl5-O16_S268_L001_001 from Germany, complete genome",Retroviridae,9030,data/raw/retroviridae.fasta
+PX466007.1,"PX466007.1 HIV-1 isolate 9254-wk78-pl2-M21_S222_L001_001 from Germany, complete genome",Retroviridae,9068,data/raw/retroviridae.fasta
+PX466006.1,"PX466006.1 HIV-1 isolate 9254-wk78-pl2-N23_S237_L001_001 from Germany, complete genome",Retroviridae,9054,data/raw/retroviridae.fasta
+PX466005.1,"PX466005.1 HIV-1 isolate 9254-wk42-pl2-L2_S183_L001_001 from Germany, complete genome",Retroviridae,9054,data/raw/retroviridae.fasta
+PX466004.1,"PX466004.1 HIV-1 isolate 9254-wk102-pl2-E11_S245_L001_001 from Germany, complete genome",Retroviridae,9064,data/raw/retroviridae.fasta
+PX466003.1,"PX466003.1 HIV-1 isolate 9254-wk78-pl5-G22_S305_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX466002.1,"PX466002.1 HIV-1 isolate 9254-wk78-pl2-F4_S242_L001_001 from Germany, complete genome",Retroviridae,9052,data/raw/retroviridae.fasta
+PX466001.1,"PX466001.1 HIV-1 isolate 9254-wk42-pl5-A7_S344_L001_001 from Germany, complete genome",Retroviridae,9036,data/raw/retroviridae.fasta
+PX466000.1,"PX466000.1 HIV-1 isolate 9254-wk26-5-K18_S135_L001_001 from Germany, complete genome",Retroviridae,9067,data/raw/retroviridae.fasta
+PX465999.1,"PX465999.1 HIV-1 isolate 9254-wk42-pl4-C5_S215_L001_001 from Germany, complete genome",Retroviridae,9022,data/raw/retroviridae.fasta
+PX465998.1,"PX465998.1 HIV-1 isolate 9254-wk42-pl2-E7_S186_L001_001 from Germany, complete genome",Retroviridae,9013,data/raw/retroviridae.fasta
+PX465997.1,"PX465997.1 HIV-1 isolate 9254-wk26-2-O18_S52_L001_001 from Germany, complete genome",Retroviridae,9044,data/raw/retroviridae.fasta
+PX465996.1,"PX465996.1 HIV-1 isolate 9254-wk102-pl5-J14_S297_L001_001 from Germany, complete genome",Retroviridae,9024,data/raw/retroviridae.fasta
+PX465995.1,"PX465995.1 HIV-1 isolate 9254-wk78-pl2-I11_S241_L001_001 from Germany, complete genome",Retroviridae,9048,data/raw/retroviridae.fasta
+PX465994.1,"PX465994.1 HIV-1 isolate 9254-wk78-pl1-E18_S220_L001_001 from Germany, complete genome",Retroviridae,8980,data/raw/retroviridae.fasta
+PX465993.1,"PX465993.1 HIV-1 isolate 9254-wk42-pl5-P23_S240_L001_001 from Germany, complete genome",Retroviridae,9128,data/raw/retroviridae.fasta
+PX465992.1,"PX465992.1 HIV-1 isolate 9254-wk42-pl5-M12_S346_L001_001 from Germany, complete genome",Retroviridae,9046,data/raw/retroviridae.fasta
+PX465991.1,"PX465991.1 HIV-1 isolate 9254-wk42-pl2-D3_S189_L001_001 from Germany, complete genome",Retroviridae,8958,data/raw/retroviridae.fasta
+PX465990.1,"PX465990.1 HIV-1 isolate 9254-wk42-pl1-M24_S144_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX465989.1,"PX465989.1 HIV-1 isolate 9254-wk42-pl5-N9_S142_L001_001-2 from Germany, complete genome",Retroviridae,9028,data/raw/retroviridae.fasta
+PX465988.1,"PX465988.1 HIV-1 isolate 9254-wk42-pl1-I21_S147_L001_001 from Germany, complete genome",Retroviridae,9028,data/raw/retroviridae.fasta
+PX465987.1,"PX465987.1 HIV-1 isolate 9254-wk42-pl1-F10_S145_L001_001 from Germany, complete genome",Retroviridae,9028,data/raw/retroviridae.fasta
+PX465986.1,"PX465986.1 HIV-1 isolate 9254-wk42-pl2-D2_S193_L001_001 from Germany, complete genome",Retroviridae,9040,data/raw/retroviridae.fasta
+PX465985.1,"PX465985.1 HIV-1 isolate 9254-wk26-5-J16_S133_L001_001 from Germany, complete genome",Retroviridae,9040,data/raw/retroviridae.fasta
+PX465984.1,"PX465984.1 HIV-1 isolate 9254-wk26-2-M8_S47_L001_001 from Germany, complete genome",Retroviridae,9038,data/raw/retroviridae.fasta
+PX465983.1,"PX465983.1 HIV-1 isolate 9254-wk26-5-G11_S126_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465982.1,"PX465982.1 HIV-1 isolate 9254-wk26-3-D15_S61_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465981.1,"PX465981.1 HIV-1 isolate 9254-wk102-pl1-M19_S234_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465980.1,"PX465980.1 HIV-1 isolate 9254-wk78-pl2-E3_S225_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465979.1,"PX465979.1 HIV-1 isolate 9254-wk42-pl1-K5_S141_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465978.1,"PX465978.1 HIV-1 isolate 9254-wk26-2-H15_S40_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465977.1,"PX465977.1 HIV-1 isolate 9254-wk78-pl5-O5_S308_L001_001 from Germany, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465976.1,"PX465976.1 HIV-1 isolate 9254-wk78-pl3-I21_S243_L001_001 from Germany, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465975.1,"PX465975.1 HIV-1 isolate 9254-wk26-2-H8_S39_L001_001 from Germany, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465974.1,"PX465974.1 HIV-1 isolate 9254-wk78-pl5-F19_S302_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465973.1,"PX465973.1 HIV-1 isolate 9254-wk42-pl5-G13_S347_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465972.1,"PX465972.1 HIV-1 isolate 9254-wk42-pl4-E13_S338_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465971.1,"PX465971.1 HIV-1 isolate 9254-wk26-1-J14_S16_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465970.1,"PX465970.1 HIV-1 isolate 9254-wk42-pl5-D8_S351_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465969.1,"PX465969.1 HIV-1 isolate 9254-wk26-3-M8_S81_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465968.1,"PX465968.1 HIV-1 isolate 9254-wk26-1-O10_S23_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465967.1,"PX465967.1 HIV-1 isolate 9254-wk26-1-I2_S13_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465966.1,"PX465966.1 HIV-1 isolate 9254-wk102-pl4-L3_S277_L001_001 from Germany, complete genome",Retroviridae,9047,data/raw/retroviridae.fasta
+PX465965.1,"PX465965.1 HIV-1 isolate 9254-wk26-4-G21_S102_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465964.1,"PX465964.1 HIV-1 isolate 9254-wk26-1-G21_S10_L001_001 from Germany, complete genome",Retroviridae,9065,data/raw/retroviridae.fasta
+PX465963.1,"PX465963.1 HIV-1 isolate 9254-wk42-pl2-E9_S179_L001_001 from Germany, complete genome",Retroviridae,9050,data/raw/retroviridae.fasta
+PX465962.1,"PX465962.1 HIV-1 isolate 9254-wk42-pl1-I17_S316_L001_001 from Germany, complete genome",Retroviridae,9045,data/raw/retroviridae.fasta
+PX465961.1,"PX465961.1 HIV-1 isolate 9254-wk42-pl1-E3_S317_L001_001 from Germany, complete genome",Retroviridae,9044,data/raw/retroviridae.fasta
+PX465960.1,"PX465960.1 HIV-1 isolate 9254-wk26-1-G10_S7_L001_001 from Germany, complete genome",Retroviridae,9049,data/raw/retroviridae.fasta
+PX465959.1,"PX465959.1 HIV-1 isolate 142_MIPseq_PBMC_Wk51_01 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465958.1,"PX465958.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_09 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465957.1,"PX465957.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_08 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465956.1,"PX465956.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_07 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465955.1,"PX465955.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_06 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465954.1,"PX465954.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_05 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465953.1,"PX465953.1 HIV-1 isolate 142_MIPseq_PBMC_Wk34_02 from Denmark, complete genome",Retroviridae,8967,data/raw/retroviridae.fasta
+PX465952.1,"PX465952.1 HIV-1 isolate 142_MIPseq_PBMC_Wk34_01 from Denmark, complete genome",Retroviridae,8967,data/raw/retroviridae.fasta
+PX465951.1,"PX465951.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_04 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465950.1,"PX465950.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_03 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465949.1,"PX465949.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_02 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465948.1,"PX465948.1 HIV-1 isolate 142_MIPseq_PBMC_Wk-2_01 from Denmark, complete genome",Retroviridae,8989,data/raw/retroviridae.fasta
+PX465707.1,"PX465707.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_32 from Denmark, complete genome",Retroviridae,8949,data/raw/retroviridae.fasta
+PX465706.1,"PX465706.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_31 from Denmark, complete genome",Retroviridae,9055,data/raw/retroviridae.fasta
+PX465705.1,"PX465705.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_30 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465704.1,"PX465704.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_29 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465703.1,"PX465703.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_28 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465702.1,"PX465702.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_27 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465701.1,"PX465701.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_26 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465700.1,"PX465700.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_25 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465699.1,"PX465699.1 HIV-1 isolate 107_MIPseq_PBMC_Wk0_03 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465698.1,"PX465698.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_24 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465697.1,"PX465697.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_14 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465696.1,"PX465696.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_13 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465695.1,"PX465695.1 HIV-1 isolate 107_MIPseq_PBMC_Wk227_09 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465694.1,"PX465694.1 HIV-1 isolate 107_MIPseq_PBMC_Wk227_08 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465693.1,"PX465693.1 HIV-1 isolate 107_MIPseq_PBMC_Wk130_13 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465692.1,"PX465692.1 HIV-1 isolate 107_MIPseq_PBMC_Wk130_12 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465691.1,"PX465691.1 HIV-1 isolate 107_MIPseq_PBMC_Wk130_11 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465690.1,"PX465690.1 HIV-1 isolate 107_MIPseq_PBMC_Wk130_10 from Denmark, complete genome",Retroviridae,9009,data/raw/retroviridae.fasta
+PX465689.1,"PX465689.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_23 from Denmark, complete genome",Retroviridae,9117,data/raw/retroviridae.fasta
+PX465688.1,"PX465688.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_22 from Denmark, complete genome",Retroviridae,9117,data/raw/retroviridae.fasta
+PX465687.1,"PX465687.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_21 from Denmark, complete genome",Retroviridae,9117,data/raw/retroviridae.fasta
+PX465686.1,"PX465686.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_20 from Denmark, complete genome",Retroviridae,9117,data/raw/retroviridae.fasta
+PX465685.1,"PX465685.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_19 from Denmark, complete genome",Retroviridae,9014,data/raw/retroviridae.fasta
+PX465684.1,"PX465684.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_18 from Denmark, complete genome",Retroviridae,9014,data/raw/retroviridae.fasta
+PX465683.1,"PX465683.1 HIV-1 isolate 107_MIPseq_PBMC_Wk29_05 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465682.1,"PX465682.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_17 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465681.1,"PX465681.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_16 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465680.1,"PX465680.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_15 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465679.1,"PX465679.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_14 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465678.1,"PX465678.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_13 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465677.1,"PX465677.1 HIV-1 isolate 107_MIPseq_PBMC_Wk-57_12 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465676.1,"PX465676.1 HIV-1 isolate 107_MIPseq_PBMC_Wk0_02 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465675.1,"PX465675.1 HIV-1 isolate 107_MIPseq_PBMC_Wk29_04 from Denmark, complete genome",Retroviridae,9033,data/raw/retroviridae.fasta
+PX465674.1,"PX465674.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_12 from Denmark, complete genome",Retroviridae,9031,data/raw/retroviridae.fasta
+PX465673.1,"PX465673.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_11 from Denmark, complete genome",Retroviridae,9031,data/raw/retroviridae.fasta
+PX465672.1,"PX465672.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_10 from Denmark, complete genome",Retroviridae,9031,data/raw/retroviridae.fasta
+PX465671.1,"PX465671.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_09 from Denmark, complete genome",Retroviridae,9031,data/raw/retroviridae.fasta

@@ -1,0 +1,46 @@
+id,description,family,length,file
+PQ220318.1,"PQ220318.1 MAG: Wuhan Mosquito Virus 6 isolate VN6831CPR1, complete genome",Orthomyxoviridae,2214,data/raw/orthomyxoviridae.fasta
+PV585551.1,"PV585551.1 MAG: Egypt associated orthomyxo-like virus 1 isolate Giza_CPC_Pool4, complete genome",Orthomyxoviridae,2403,data/raw/orthomyxoviridae.fasta
+AB818503.1,"AB818503.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB818495.1,"AB818495.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB827993.1,"AB827993.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1362,data/raw/orthomyxoviridae.fasta
+AB827992.1,"AB827992.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB827991.1,"AB827991.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1742,data/raw/orthomyxoviridae.fasta
+AB827990.1,"AB827990.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB827989.1,"AB827989.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB827988.1,"AB827988.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+AB822992.1,"AB822992.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1361,data/raw/orthomyxoviridae.fasta
+AB822991.1,"AB822991.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB822990.1,"AB822990.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1745,data/raw/orthomyxoviridae.fasta
+AB822989.1,"AB822989.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB822988.1,"AB822988.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 2, complete genome",Orthomyxoviridae,2309,data/raw/orthomyxoviridae.fasta
+AB822987.1,"AB822987.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+AB818507.1,"AB818507.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1361,data/raw/orthomyxoviridae.fasta
+AB818506.1,"AB818506.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB818505.1,"AB818505.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1745,data/raw/orthomyxoviridae.fasta
+AB818504.1,"AB818504.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB818502.1,"AB818502.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+AB818499.1,"AB818499.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 6, complete genome",Orthomyxoviridae,1361,data/raw/orthomyxoviridae.fasta
+AB818498.1,"AB818498.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 5, complete genome",Orthomyxoviridae,1529,data/raw/orthomyxoviridae.fasta
+AB818497.1,"AB818497.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 4, complete genome",Orthomyxoviridae,1745,data/raw/orthomyxoviridae.fasta
+AB818496.1,"AB818496.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 3, complete genome",Orthomyxoviridae,2200,data/raw/orthomyxoviridae.fasta
+AB818494.1,"AB818494.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 1, complete genome",Orthomyxoviridae,2308,data/raw/orthomyxoviridae.fasta
+HE589469.1,"HE589469.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 7, complete genome",Orthomyxoviridae,1008,data/raw/orthomyxoviridae.fasta
+HE589468.1,"HE589468.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 6, complete genome",Orthomyxoviridae,1410,data/raw/orthomyxoviridae.fasta
+HE589466.1,"HE589466.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 4, complete genome",Orthomyxoviridae,1756,data/raw/orthomyxoviridae.fasta
+HE589465.1,"HE589465.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 3, complete genome",Orthomyxoviridae,2202,data/raw/orthomyxoviridae.fasta
+HE589464.1,"HE589464.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 2, complete genome",Orthomyxoviridae,2379,data/raw/orthomyxoviridae.fasta
+HE589463.1,"HE589463.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 1, complete genome",Orthomyxoviridae,2280,data/raw/orthomyxoviridae.fasta
+HE584758.1,"HE584758.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 6, complete genome",Orthomyxoviridae,1438,data/raw/orthomyxoviridae.fasta
+HE584757.1,"HE584757.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 5, complete genome",Orthomyxoviridae,1497,data/raw/orthomyxoviridae.fasta
+HE584756.1,"HE584756.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 4, complete genome",Orthomyxoviridae,1752,data/raw/orthomyxoviridae.fasta
+HE584755.1,"HE584755.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 3, complete genome",Orthomyxoviridae,2202,data/raw/orthomyxoviridae.fasta
+HE584754.1,"HE584754.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 2, complete genome",Orthomyxoviridae,2379,data/raw/orthomyxoviridae.fasta
+HE584753.1,"HE584753.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 1, complete genome",Orthomyxoviridae,2280,data/raw/orthomyxoviridae.fasta
+HE584750.1,"HE584750.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 6, complete genome",Orthomyxoviridae,1438,data/raw/orthomyxoviridae.fasta
+HE584749.1,"HE584749.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 5, complete genome",Orthomyxoviridae,1497,data/raw/orthomyxoviridae.fasta
+HE584748.1,"HE584748.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 4, complete genome",Orthomyxoviridae,1753,data/raw/orthomyxoviridae.fasta
+HE584747.1,"HE584747.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 3, complete genome",Orthomyxoviridae,2229,data/raw/orthomyxoviridae.fasta
+HE584746.1,"HE584746.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 2, complete genome",Orthomyxoviridae,2379,data/raw/orthomyxoviridae.fasta
+HE584745.1,"HE584745.1 Influenza A virus (A/swine/Holguin/121/2010(H1N1)) segment 1, complete genome",Orthomyxoviridae,2337,data/raw/orthomyxoviridae.fasta
+DQ487340.1,"DQ487340.1 Influenza A virus (A/Panama/2007/1999(H3N2)) segment 4, complete genome",Orthomyxoviridae,1762,data/raw/orthomyxoviridae.fasta

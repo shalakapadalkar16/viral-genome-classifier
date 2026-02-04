@@ -1,0 +1,201 @@
+id,description,family,length,file
+PV700541.1,"PV700541.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_S8_2023, complete genome",Filoviridae,19048,data/raw/filoviridae.fasta
+PV700540.1,"PV700540.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_S7_2023, complete genome",Filoviridae,19054,data/raw/filoviridae.fasta
+PV700539.1,"PV700539.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_S6_2023, complete genome",Filoviridae,18943,data/raw/filoviridae.fasta
+PV700538.1,"PV700538.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_002_2025, complete genome",Filoviridae,19030,data/raw/filoviridae.fasta
+PV700537.1,"PV700537.1 Orthomarburgvirus marburgense isolate MARV_H.Sapiens_TZ_Kagera_001_2025, complete genome",Filoviridae,19070,data/raw/filoviridae.fasta
+OZ276552.1,"OZ276552.1 Zaire ebolavirus isolate Ebola virus/VECTOR/C.porcellus-lab/COD/1976/Mayinga_NML genome assembly, complete genome: monopartite",Filoviridae,18582,data/raw/filoviridae.fasta
+PX278686.1,"PX278686.1 Orthomarburgvirus marburgense strain Marburg virus/H. sapiens-tc/KEN/Mt. Elgon-Musoke F3, complete genome",Filoviridae,19112,data/raw/filoviridae.fasta
+PX278685.1,"PX278685.1 Orthomarburgvirus marburgense strain Marburg virus/H.sapien-tc/ANG/2004/Angola325, complete genome",Filoviridae,19113,data/raw/filoviridae.fasta
+NC_001608.4,"NC_001608.4 Marburg virus - Musoke, Kenya, 1980, complete genome",Filoviridae,19112,data/raw/filoviridae.fasta
+MW110478.1,"MW110478.1 Bat filovirus isolate Wanding virus/CHN/2016/ Bt-WD133, complete genome",Filoviridae,17627,data/raw/filoviridae.fasta
+OP924273.1,"OP924273.1 Dehong virus isolate CHN/2016/Rl133-16, complete genome",Filoviridae,20943,data/raw/filoviridae.fasta
+KX371887.3,"KX371887.3 Dianlovirus menglaense isolate Rousettus-wt/CHN/2015/Sharen-Bat9447-1, complete genome",Filoviridae,18555,data/raw/filoviridae.fasta
+DQ217792.2,"DQ217792.2 Marburg virus - Musoke, Kenya, 1980, complete genome",Filoviridae,19112,data/raw/filoviridae.fasta
+OQ672471.1,"OQ672471.1 Orthomarburgvirus marburgense isolate MV-22-114C/Ghana/2022, complete genome",Filoviridae,19049,data/raw/filoviridae.fasta
+OQ847644.1,"OQ847644.1 Mutant Orthomarburgvirus marburgense, complete genome",Filoviridae,19115,data/raw/filoviridae.fasta
+OQ630505.1,"OQ630505.1 Cuevavirus lloviuense isolate Hungary/2019/378, complete genome",Filoviridae,19019,data/raw/filoviridae.fasta
+OQ784121.1,"OQ784121.1 Mutant Zaire ebolavirus rMA-EBOV-ZsGnLuc, complete genome",Filoviridae,20233,data/raw/filoviridae.fasta
+OQ784120.1,"OQ784120.1 Mutant Zaire ebolavirus rMA-EBOV-nLuc-ZsG, complete genome",Filoviridae,20302,data/raw/filoviridae.fasta
+OQ784119.1,"OQ784119.1 Mutant Zaire ebolavirus rMA-EBOV-nLuc, complete genome",Filoviridae,19540,data/raw/filoviridae.fasta
+OQ784118.1,"OQ784118.1 Mutant Zaire ebolavirus rMA-EBOV-ZsG, complete genome",Filoviridae,19720,data/raw/filoviridae.fasta
+OQ784117.1,"OQ784117.1 Mutant Zaire ebolavirus rMA-EBOV, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+OQ892316.1,"OQ892316.1 Zaire ebolavirus isolate COY1925, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892315.1,"OQ892315.1 Zaire ebolavirus isolate CON1184, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892314.1,"OQ892314.1 Zaire ebolavirus isolate CON1183, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892313.1,"OQ892313.1 Zaire ebolavirus isolate FOR2439, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892312.1,"OQ892312.1 Zaire ebolavirus isolate DUB2223, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892311.1,"OQ892311.1 Zaire ebolavirus isolate CON2451, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892310.1,"OQ892310.1 Zaire ebolavirus isolate CON2452, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892309.1,"OQ892309.1 Zaire ebolavirus isolate PIT965, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892308.1,"OQ892308.1 Zaire ebolavirus isolate CON2231, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892307.1,"OQ892307.1 Zaire ebolavirus isolate CON1479, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892306.1,"OQ892306.1 Zaire ebolavirus isolate CON1508, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892305.1,"OQ892305.1 Zaire ebolavirus isolate DUB2224, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892304.1,"OQ892304.1 Zaire ebolavirus isolate CON2489, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892303.1,"OQ892303.1 Zaire ebolavirus isolate CON1437, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892302.1,"OQ892302.1 Zaire ebolavirus isolate FOR2456, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892301.1,"OQ892301.1 Zaire ebolavirus isolate COY2146, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892300.1,"OQ892300.1 Zaire ebolavirus isolate CON2135, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892299.1,"OQ892299.1 Zaire ebolavirus isolate CON2454, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892298.1,"OQ892298.1 Zaire ebolavirus isolate COY2448, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892297.1,"OQ892297.1 Zaire ebolavirus isolate TEL2455, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892296.1,"OQ892296.1 Zaire ebolavirus isolate CON2136, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892295.1,"OQ892295.1 Zaire ebolavirus isolate COY2229, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ892294.1,"OQ892294.1 Zaire ebolavirus isolate FOR2221, complete genome",Filoviridae,18765,data/raw/filoviridae.fasta
+OQ348598.1,"OQ348598.1 Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2019/Ituri-MAN5036, complete genome",Filoviridae,18937,data/raw/filoviridae.fasta
+OQ348597.1,"OQ348597.1 Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Ituri-20FHV036, complete genome",Filoviridae,18814,data/raw/filoviridae.fasta
+OQ348596.1,"OQ348596.1 Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Ituri-20FHV037, complete genome",Filoviridae,18814,data/raw/filoviridae.fasta
+ON186772.1,"ON186772.1 Lloviu cuevavirus isolate Italy/2021, complete genome",Filoviridae,18861,data/raw/filoviridae.fasta
+ON871047.1,"ON871047.1 Mutant Bombali ebolavirus Bombali virus FLI/Huh-7-rec/GER/2021/42BB.AJ.3, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+MZ541881.1,"MZ541881.1 Lloviu cuevavirus isolate Hungary/2019/378, complete genome",Filoviridae,19019,data/raw/filoviridae.fasta
+OL702894.1,"OL702894.1 Orthomarburgvirus marburgense isolate MARV001, complete genome",Filoviridae,19058,data/raw/filoviridae.fasta
+MZ605321.1,"MZ605321.1 Zaire ebolavirus strain EBO-0003, complete genome",Filoviridae,18886,data/raw/filoviridae.fasta
+MZ605320.1,"MZ605320.1 Zaire ebolavirus strain EBO-0002, complete genome",Filoviridae,18830,data/raw/filoviridae.fasta
+MT583342.1,"MT583342.1 Zaire ebolavirus culture BEI<USA_:NR_51690, complete genome",Filoviridae,18943,data/raw/filoviridae.fasta
+MT583341.1,"MT583341.1 Zaire ebolavirus culture BEI<USA_:NR_51689, complete genome",Filoviridae,18950,data/raw/filoviridae.fasta
+MT583340.1,"MT583340.1 Zaire ebolavirus culture BEI<USA_:NR_51688, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MT583339.1,"MT583339.1 Zaire ebolavirus culture BEI<USA_:NR_51687, complete genome",Filoviridae,18950,data/raw/filoviridae.fasta
+MT583344.1,"MT583344.1 Bundibugyo virus culture BEI<USA_:NR_51692, complete genome",Filoviridae,18942,data/raw/filoviridae.fasta
+MT583343.1,"MT583343.1 Bundibugyo virus culture BEI<USA_:NR_51691, complete genome",Filoviridae,18941,data/raw/filoviridae.fasta
+MT583348.1,"MT583348.1 Sudan ebolavirus culture BEI<USA_:NR_51696, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MT583347.1,"MT583347.1 Sudan ebolavirus culture BEI<USA_:NR_51695, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MT583346.1,"MT583346.1 Sudan ebolavirus culture BEI<USA_:NR_51694, complete genome",Filoviridae,18866,data/raw/filoviridae.fasta
+MT583345.1,"MT583345.1 Sudan ebolavirus culture BEI<USA_:NR_51693, complete genome",Filoviridae,18866,data/raw/filoviridae.fasta
+MT586762.1,"MT586762.1 Orthomarburgvirus marburgense isolate BEI NR_51697, complete genome",Filoviridae,19105,data/raw/filoviridae.fasta
+NC_055510.1,"NC_055510.1 Mengla dianlovirus isolate Rousettus-wt/CHN/2015/Sharen-Bat9447-1, complete genome",Filoviridae,18300,data/raw/filoviridae.fasta
+MW345251.1,"MW345251.1 Zaire ebolavirus isolate EBOV/H.sap.-tc/LBR/2014/Makona-201403621, complete genome",Filoviridae,18959,data/raw/filoviridae.fasta
+MW056493.1,"MW056493.1 Bombali virus isolate Z153, complete genome",Filoviridae,19025,data/raw/filoviridae.fasta
+MW056492.1,"MW056492.1 Bombali virus isolate X030, complete genome",Filoviridae,19025,data/raw/filoviridae.fasta
+MT742157.1,"MT742157.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-201200120-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680262.1,"MT680262.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120022-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680261.1,"MT680261.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120130, complete genome",Filoviridae,18277,data/raw/filoviridae.fasta
+MT680260.1,"MT680260.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120116-3, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680258.1,"MT680258.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120074-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680257.1,"MT680257.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120109-2, complete genome",Filoviridae,18277,data/raw/filoviridae.fasta
+MT680254.1,"MT680254.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120135, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680253.1,"MT680253.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120130, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680252.1,"MT680252.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120120-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680250.1,"MT680250.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120074-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680248.1,"MT680248.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-201200004, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680246.1,"MT680246.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-tc/COD/2012/Isiro-20120143-3, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT680245.1,"MT680245.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120022-1, complete genome",Filoviridae,18342,data/raw/filoviridae.fasta
+MT796851.1,"MT796851.1 Reston ebolavirus isolate R08, complete genome",Filoviridae,18848,data/raw/filoviridae.fasta
+MK952150.1,"MK952150.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-wt/SSD/1976/Maridi-BNI/DT, complete genome",Filoviridae,18847,data/raw/filoviridae.fasta
+MK672825.1,"MK672825.1 Mutant Zaire ebolavirus strain recEBOV-DRC2018-ZsG, complete genome",Filoviridae,19724,data/raw/filoviridae.fasta
+MK672824.1,"MK672824.1 Zaire ebolavirus strain recEBOV-DRC2018, complete genome",Filoviridae,18962,data/raw/filoviridae.fasta
+MN258361.1,"MN258361.1 Orthomarburgvirus marburgense isolate PREDICT_SLAB3960 Kakbat_SL_2017, complete genome",Filoviridae,19100,data/raw/filoviridae.fasta
+MN187406.1,"MN187406.1 Orthomarburgvirus marburgense strain 960LNKasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN187405.1,"MN187405.1 Orthomarburgvirus marburgense strain 960Kasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN187404.1,"MN187404.1 Orthomarburgvirus marburgense strain 968Kasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN187403.1,"MN187403.1 Orthomarburgvirus marburgense strain 1000Kasbat SL 2018, complete genome",Filoviridae,19094,data/raw/filoviridae.fasta
+MN416402.1,"MN416402.1 Zaire ebolavirus isolate Ebola virus NML/BALB/c-lab/GIN/2014/Makona-Gueckedou-C07-rgMA, complete genome",Filoviridae,18959,data/raw/filoviridae.fasta
+MK028856.1,"MK028856.1 Bundibugyo virus isolate Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291, complete genome",Filoviridae,18940,data/raw/filoviridae.fasta
+MK028855.1,"MK028855.1 UNVERIFIED: Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-R4317a, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MK028835.1,"MK028835.1 Bundibugyo virus isolate Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-200706291, complete genome",Filoviridae,18936,data/raw/filoviridae.fasta
+MK028834.1,"MK028834.1 Bundibugyo virus isolate Ebola virus/H.sapiens-tc/Uganda/2007/Bundibugyo-R4386L, complete genome",Filoviridae,18917,data/raw/filoviridae.fasta
+MH121169.1,"MH121169.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Sudan/2004/Yambio-HCM/SAV/017, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MH121168.1,"MH121168.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/Zaire/1976/Mayinga-R3816, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MH121167.1,"MH121167.1 Tai Forest ebolavirus isolate Ebola virus/H.sapiens-tc/Cote d'Ivoire/1994/Tai Forest-R4371, complete genome",Filoviridae,18890,data/raw/filoviridae.fasta
+MH121166.1,"MH121166.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MH121165.1,"MH121165.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome",Filoviridae,18959,data/raw/filoviridae.fasta
+MH121164.1,"MH121164.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MH121163.1,"MH121163.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Uganda/2000/Gulu-200011676, complete genome",Filoviridae,18831,data/raw/filoviridae.fasta
+MH121162.1,"MH121162.1 Sudan ebolavirus isolate Ebola virus/H.sapiens-tc/Sudan/1976/Boniface-R4142L, complete genome",Filoviridae,18849,data/raw/filoviridae.fasta
+MH121161.1,"MH121161.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/Sierra Leone/2014/Makona-SLE 3864-1-R4491, complete genome",Filoviridae,18742,data/raw/filoviridae.fasta
+MG572235.1,"MG572235.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MG572234.1,"MG572234.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C15, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MG572233.1,"MG572233.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C07, complete genome",Filoviridae,18957,data/raw/filoviridae.fasta
+MG572232.1,"MG572232.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C05, complete genome",Filoviridae,18958,data/raw/filoviridae.fasta
+MG572231.1,"MG572231.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C15, complete genome",Filoviridae,18912,data/raw/filoviridae.fasta
+MG572230.1,"MG572230.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/GIN/2014/Makona-C07, complete genome",Filoviridae,18912,data/raw/filoviridae.fasta
+MK271062.1,"MK271062.1 Mutant Orthomarburgvirus marburgense strain recombinant MARV-ZsG, complete genome",Filoviridae,19875,data/raw/filoviridae.fasta
+MH425138.1,"MH425138.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/LBR/2014/Makona-LIBR140809, complete genome",Filoviridae,18937,data/raw/filoviridae.fasta
+MK731994.1,"MK731994.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN167-MANA5-14, complete genome",Filoviridae,18935,data/raw/filoviridae.fasta
+MK731993.1,"MK731993.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN167-MANA5-11, complete genome",Filoviridae,18919,data/raw/filoviridae.fasta
+MK731992.1,"MK731992.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN165-MANA3-20, complete genome",Filoviridae,18946,data/raw/filoviridae.fasta
+MK731990.1,"MK731990.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-17, complete genome",Filoviridae,18945,data/raw/filoviridae.fasta
+MK731989.1,"MK731989.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-16, complete genome",Filoviridae,18907,data/raw/filoviridae.fasta
+MK731988.1,"MK731988.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-13, complete genome",Filoviridae,18945,data/raw/filoviridae.fasta
+MK731987.1,"MK731987.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN164-MANA1-11, complete genome",Filoviridae,18889,data/raw/filoviridae.fasta
+MK731986.1,"MK731986.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN163-MANA2-16, complete genome",Filoviridae,18912,data/raw/filoviridae.fasta
+MK731985.1,"MK731985.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN163-MANA2-13, complete genome",Filoviridae,18903,data/raw/filoviridae.fasta
+MK340750.1,"MK340750.1 Bombali virus isolate B241, complete genome",Filoviridae,19025,data/raw/filoviridae.fasta
+KU174142.1,"KU174142.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-SUDV_GP, complete genome",Filoviridae,19774,data/raw/filoviridae.fasta
+KU174141.1,"KU174141.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-MARV_GPed, complete genome",Filoviridae,19769,data/raw/filoviridae.fasta
+KU174140.1,"KU174140.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-MARV_GP, complete genome",Filoviridae,19790,data/raw/filoviridae.fasta
+KU174139.1,"KU174139.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-LLOV_GP, complete genome",Filoviridae,19897,data/raw/filoviridae.fasta
+KU174138.1,"KU174138.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GPdelta_sGP, complete genome",Filoviridae,19775,data/raw/filoviridae.fasta
+KU174137.1,"KU174137.1 Mutant Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP, complete genome",Filoviridae,19774,data/raw/filoviridae.fasta
+MK088515.1,"MK088515.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2017/Muyembe-18FHV012b, complete genome",Filoviridae,18934,data/raw/filoviridae.fasta
+MF319186.1,"MF319186.1 Bombali virus isolate Bombali virus/C.pumilus-wt/SLE/2016/Northern Province-PREDICT_SLAB000047, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+MF319185.1,"MF319185.1 Bombali virus isolate Bombali virus/M.condylurus-wt/SLE/2016/Northern Province-PREDICT_SLAB000156, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+NC_014373.1,"NC_014373.1 Bundibugyo ebolavirus, complete genome",Filoviridae,18940,data/raw/filoviridae.fasta
+MK007344.1,"MK007344.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN065, complete genome",Filoviridae,18938,data/raw/filoviridae.fasta
+MK007343.1,"MK007343.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN048, complete genome",Filoviridae,18913,data/raw/filoviridae.fasta
+MK007342.1,"MK007342.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN046, complete genome",Filoviridae,18905,data/raw/filoviridae.fasta
+MK007341.1,"MK007341.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN042, complete genome",Filoviridae,18938,data/raw/filoviridae.fasta
+MK007340.1,"MK007340.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN040, complete genome",Filoviridae,18943,data/raw/filoviridae.fasta
+MK007339.1,"MK007339.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN039, complete genome",Filoviridae,18945,data/raw/filoviridae.fasta
+MK007337.1,"MK007337.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN036, complete genome",Filoviridae,18948,data/raw/filoviridae.fasta
+MK007336.1,"MK007336.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN028, complete genome",Filoviridae,18901,data/raw/filoviridae.fasta
+MK007335.1,"MK007335.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN025, complete genome",Filoviridae,18905,data/raw/filoviridae.fasta
+MK007334.1,"MK007334.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN020, complete genome",Filoviridae,18924,data/raw/filoviridae.fasta
+MK007333.1,"MK007333.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN006, complete genome",Filoviridae,18876,data/raw/filoviridae.fasta
+MK007332.1,"MK007332.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN003, complete genome",Filoviridae,18921,data/raw/filoviridae.fasta
+MK007331.1,"MK007331.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-MAN002, complete genome",Filoviridae,18908,data/raw/filoviridae.fasta
+MK007330.1,"MK007330.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-18FHV090, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MK007329.1,"MK007329.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Ituri-18FHV089, complete genome",Filoviridae,18946,data/raw/filoviridae.fasta
+NC_039345.1,"NC_039345.1 Bombali ebolavirus isolate Bombali ebolavirus/Mops condylurus/SLE/2016/PREDICT_SLAB000156, complete genome",Filoviridae,19043,data/raw/filoviridae.fasta
+MH733491.1,"MH733491.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK137, complete genome",Filoviridae,18939,data/raw/filoviridae.fasta
+MH733490.1,"MH733490.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK091, complete genome",Filoviridae,18932,data/raw/filoviridae.fasta
+MH733489.1,"MH733489.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK055, complete genome",Filoviridae,18913,data/raw/filoviridae.fasta
+MH733488.1,"MH733488.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK053, complete genome",Filoviridae,18942,data/raw/filoviridae.fasta
+MH733487.1,"MH733487.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK046, complete genome",Filoviridae,18919,data/raw/filoviridae.fasta
+MH733486.1,"MH733486.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK045, complete genome",Filoviridae,18914,data/raw/filoviridae.fasta
+MH733485.1,"MH733485.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK039, complete genome",Filoviridae,18940,data/raw/filoviridae.fasta
+MH733484.1,"MH733484.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK037, complete genome",Filoviridae,18905,data/raw/filoviridae.fasta
+MH733483.1,"MH733483.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK031, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MH733482.1,"MH733482.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK026, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MH733481.1,"MH733481.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK025, complete genome",Filoviridae,18939,data/raw/filoviridae.fasta
+MH733480.1,"MH733480.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK019, complete genome",Filoviridae,18938,data/raw/filoviridae.fasta
+MH733479.1,"MH733479.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK016, complete genome",Filoviridae,18944,data/raw/filoviridae.fasta
+MH733478.1,"MH733478.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK011, complete genome",Filoviridae,18941,data/raw/filoviridae.fasta
+MH733477.1,"MH733477.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK009, complete genome",Filoviridae,18894,data/raw/filoviridae.fasta
+KY786027.1,"KY786027.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCL053D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786026.1,"KY786026.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCL053D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786025.1,"KY786025.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCL053D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786024.1,"KY786024.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCJ046D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786023.1,"KY786023.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCJ046D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786022.1,"KY786022.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCJ046d10, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786021.1,"KY786021.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCI036D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786020.1,"KY786020.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCI036D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786019.1,"KY786019.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCI036D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786018.1,"KY786018.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786017.1,"KY786017.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786016.1,"KY786016.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786015.1,"KY786015.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786014.1,"KY786014.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786013.1,"KY786013.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786012.1,"KY786012.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D3, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786011.1,"KY786011.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC034D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786010.1,"KY786010.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC034D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786009.1,"KY786009.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC034D10, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786008.1,"KY786008.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786007.1,"KY786007.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786006.1,"KY786006.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786005.1,"KY786005.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC023D3, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786004.1,"KY786004.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC017D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786003.1,"KY786003.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC017D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786002.1,"KY786002.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC017D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786001.1,"KY786001.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY786000.1,"KY786000.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785999.1,"KY785999.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785998.1,"KY785998.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB120D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785997.1,"KY785997.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB120D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785996.1,"KY785996.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB979D9, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785995.1,"KY785995.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB979D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785994.1,"KY785994.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB979D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785993.1,"KY785993.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB819D8, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785992.1,"KY785992.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB819D7, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
+KY785991.1,"KY785991.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CB819D5, complete genome",Filoviridae,18871,data/raw/filoviridae.fasta
