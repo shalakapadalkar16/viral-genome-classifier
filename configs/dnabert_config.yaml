@@ -1,0 +1,16 @@
+# DNABERT specific configuration
+model:
+  architecture: "dnabert"
+  pretrained_model: "zhihan1996/DNA_bert_6"  # K-mer = 6
+  
+  # DNABERT tokenization
+  kmer_size: 6
+  max_tokens: 512
+  
+  # Fine-tuning
+  freeze_encoder: false
+  pooling_strategy: "mean"
+  
+training:
+  batch_size: 16  # DNABERT smaller, can fit more
+  learning_rate: 3.0e-5

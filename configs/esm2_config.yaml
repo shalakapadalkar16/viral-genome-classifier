@@ -1,0 +1,27 @@
+# ESM-2 specific configuration
+model:
+  architecture: "esm2"
+  pretrained_model: "facebook/esm2_t12_35M_UR50D"
+  
+  # ESM-2 tokenization
+  tokenizer: "esm"
+  max_tokens: 1024  # ESM-2 max context
+  
+  # Fine-tuning strategy
+  freeze_encoder: false
+  freeze_embeddings: true
+  unfreeze_after_epoch: 3
+  
+  # Classification head
+  pooling_strategy: "cls"  # Use [CLS] token
+  classifier_dropout: 0.1
+  hidden_dims: [480, 256, 128]
+
+training:
+  learning_rate: 5.0e-5
+  encoder_lr: 1.0e-5  # Lower LR for encoder
+  classifier_lr: 5.0e-5  # Higher LR for new head
+  
+  # ESM-2 optimization
+  use_gradient_checkpointing: true
+  compile_model: false  # PyTorch 2.0 compile

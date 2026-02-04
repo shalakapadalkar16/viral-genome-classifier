@@ -1,0 +1,105 @@
+# Project Configuration
+project:
+  name: "viral-genome-classifier"
+  description: "Transformer-based classification of viral genomes"
+  random_seed: 42
+
+# Data Configuration
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  splits_dir: "data/splits"
+  
+  # Virus families to classify
+  target_families:
+    - "Coronaviridae"    # COVID-19, SARS, MERS
+    - "Orthomyxoviridae" # Influenza
+    - "Flaviviridae"     # Zika, Dengue, Yellow Fever
+    - "Filoviridae"      # Ebola, Marburg
+    - "Retroviridae"     # HIV
+  
+  # Data split ratios
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+  
+  # Sequence processing
+  max_sequence_length: 30000  # ~30kb max genome size
+  min_sequence_length: 1000   # Filter out fragments
+  
+  # Sampling
+  samples_per_family: 200
+  balance_classes: true
+
+# Model Configuration
+model:
+  architecture: "esm2"  # Options: esm2, dnabert, cnn_baseline
+  pretrained_model: "facebook/esm2_t12_35M_UR50D"  # Smaller ESM-2 model
+  
+  # Fine-tuning parameters
+  freeze_encoder: false
+  dropout: 0.1
+  num_labels: 5  # Number of virus families
+  
+  # Model architecture
+  hidden_size: 480
+  num_attention_heads: 12
+  num_hidden_layers: 12
+
+# Training Configuration
+training:
+  batch_size: 8
+  gradient_accumulation_steps: 4  # Effective batch size = 32
+  num_epochs: 20
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_steps: 500
+  max_grad_norm: 1.0
+  
+  # Optimization
+  optimizer: "adamw"
+  scheduler: "linear"
+  
+  # Hardware
+  device: "cuda"
+  mixed_precision: true  # FP16 training
+  num_workers: 4
+
+# Evaluation Configuration
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+    - "auroc"
+    - "confusion_matrix"
+  
+  save_predictions: true
+  generate_reports: true
+  
+  # Interpretability
+  attention_visualization: true
+  feature_importance: true
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  log_dir: "logs"
+  experiment_tracker: "mlflow"  # Options: mlflow, wandb, tensorboard
+  
+  # MLflow
+  mlflow_tracking_uri: "./mlruns"
+  experiment_name: "viral-genome-classification"
+  
+  # Checkpointing
+  checkpoint_dir: "models/checkpoints"
+  save_top_k: 3
+  monitor_metric: "val_f1"
+  mode: "max"
+
+# Inference Configuration
+inference:
+  model_path: "models/final/best_model.pt"
+  batch_size: 16
+  confidence_threshold: 0.8
