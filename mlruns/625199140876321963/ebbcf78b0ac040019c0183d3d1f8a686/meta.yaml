@@ -1,0 +1,14 @@
+artifact_uri: /Users/shalakapadalkar/Desktop/ML/Projects/viral-genome-classifier/mlruns/625199140876321963/ebbcf78b0ac040019c0183d3d1f8a686/artifacts
+end_time: 1770250361384
+entry_point_name: ''
+experiment_id: '625199140876321963'
+lifecycle_stage: active
+run_id: ebbcf78b0ac040019c0183d3d1f8a686
+run_name: abundant-mouse-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770249969357
+status: 3
+tags: []
+user_id: shalakapadalkar

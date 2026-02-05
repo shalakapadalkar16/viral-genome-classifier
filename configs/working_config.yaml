@@ -1,0 +1,55 @@
+project:
+  name: "viral-genome-classifier"
+  random_seed: 42
+
+data:
+  splits_dir: "data/splits"
+  processed_dir: "data/processed"
+  # Data augmentation
+  augment_training: true
+  augmentation_factor: 3  # 3x more training data
+
+model:
+  architecture: "simple_cnn"
+  vocab_size: 258  # 4^4 k-mers = 256 + 2 special tokens
+  embedding_dim: 64  # Smaller to prevent overfitting
+  num_labels: 5
+  dropout: 0.5  # Higher dropout
+  max_tokens: 1000  # Process more sequence
+
+training:
+  batch_size: 32  # Larger batches for stability
+  gradient_accumulation_steps: 1
+  num_epochs: 100
+  
+  learning_rate: 5.0e-4
+  weight_decay: 0.05  # Strong regularization
+  warmup_steps: 20
+  max_grad_norm: 1.0
+  
+  device: "cpu"
+  mixed_precision: false
+  num_workers: 0  # No multiprocessing
+  
+  # Early stopping
+  patience: 20  # More patience
+  min_delta: 0.001
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+
+logging:
+  level: "INFO"
+  log_dir: "logs"
+  experiment_tracker: "mlflow"
+  mlflow_tracking_uri: "./mlruns"
+  experiment_name: "viral-genome-working"
+  
+  checkpoint_dir: "models/checkpoints"
+  save_top_k: 3
+  monitor_metric: "val_f1"
+  mode: "max"

@@ -1,0 +1,35 @@
+id,label,length,gc_content,description,file
+PX931063.1,Coronaviridae,29694,0.3785613255203071,"PX931063.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251205639958/2025, complete genome",data/processed/coronaviridae_clean.fasta
+PX466043.1,Retroviridae,9050,0.4245303867403315,"PX466043.1 HIV-1 isolate 9254-wk42-pl2-M14_S330_L001_001 from Germany, complete genome",data/processed/retroviridae_clean.fasta
+PX480419.1,Flaviviridae,10707,0.4681983748949285,"PX480419.1 Dengue virus type 3 isolate D19-2037, complete genome",data/processed/flaviviridae_clean.fasta
+PX466080.1,Retroviridae,9082,0.4256771636203479,"PX466080.1 HIV-1 isolate 9254-wk78-pl5-B4_S303_L001_001 from Germany, complete genome",data/processed/retroviridae_clean.fasta
+PX480287.1,Flaviviridae,10735,0.4677224033535165,"PX480287.1 Dengue virus type 1 isolate D19-2197, complete genome",data/processed/flaviviridae_clean.fasta
+PX931106.1,Coronaviridae,29694,0.37862867919445,"PX931106.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114653321/2025, complete genome",data/processed/coronaviridae_clean.fasta
+PX931232.1,Coronaviridae,29692,0.378586824733935,"PX931232.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010832001/2025, complete genome",data/processed/coronaviridae_clean.fasta
+PX480390.1,Flaviviridae,10707,0.4668908190903147,"PX480390.1 Dengue virus type 3 isolate D18-3368, complete genome",data/processed/flaviviridae_clean.fasta
+PX480401.1,Flaviviridae,10707,0.4671710096198748,"PX480401.1 Dengue virus type 3 isolate D19-1094, complete genome",data/processed/flaviviridae_clean.fasta
+PX717088.1,Retroviridae,8967,0.4207650273224044,"PX717088.1 HIV-1 isolate BC033_V2_proviral_5_Intact from Canada, complete genome",data/processed/retroviridae_clean.fasta
+HE584757.1,Orthomyxoviridae,1497,0.4622578490313961,"HE584757.1 Influenza A virus (A/swine/La Habana/130/2010(H1N1)) segment 5, complete genome",data/processed/orthomyxoviridae_clean.fasta
+MT742157.1,Filoviridae,18342,0.4228546505288409,"MT742157.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-201200120-1, complete genome",data/processed/filoviridae_clean.fasta
+PX465673.1,Retroviridae,9031,0.4115823275384785,"PX465673.1 HIV-1 isolate 107_MIPseq_PBMC_Wk281_11 from Denmark, complete genome",data/processed/retroviridae_clean.fasta
+MK731992.1,Filoviridae,18946,0.4104824237306028,"MK731992.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/BEN165-MANA3-20, complete genome",data/processed/filoviridae_clean.fasta
+PX733332.1,Coronaviridae,28035,0.416729088639201,"PX733332.1 Porcine epidemic diarrhea virus strain JS-2023, complete genome",data/processed/coronaviridae_clean.fasta
+AB827990.1,Orthomyxoviridae,2200,0.4322727272727272,"AB827990.1 Influenza A virus (A/muscovy duck/Vietnam/LBM330/2013(H5N1)) viral cRNA, segment 3, complete genome",data/processed/orthomyxoviridae_clean.fasta
+AB818499.1,Orthomyxoviridae,1361,0.4379132990448199,"AB818499.1 Influenza A virus (A/chicken/Soc Trang/3/2012(H5N1)) viral cRNA, segment 6, complete genome",data/processed/orthomyxoviridae_clean.fasta
+AB822992.1,Orthomyxoviridae,1361,0.4379132990448199,"AB822992.1 Influenza A virus (A/chicken/Soc Trang/4/2012(H5N1)) viral cRNA, segment 6, complete genome",data/processed/orthomyxoviridae_clean.fasta
+PX931105.1,Coronaviridae,29694,0.3785613255203071,"PX931105.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114579239/2025, complete genome",data/processed/coronaviridae_clean.fasta
+AB818506.1,Orthomyxoviridae,1529,0.4689339437540876,"AB818506.1 Influenza A virus (A/chicken/Soc Trang/5/2012(H5N1)) viral cRNA, segment 5, complete genome",data/processed/orthomyxoviridae_clean.fasta
+PX480388.1,Flaviviridae,10707,0.4670776127766881,"PX480388.1 Dengue virus type 3 isolate D18-3282, complete genome",data/processed/flaviviridae_clean.fasta
+PX480283.1,Flaviviridae,10735,0.4671634839310666,"PX480283.1 Dengue virus type 1 isolate D19-2056, complete genome",data/processed/flaviviridae_clean.fasta
+KY786013.1,Filoviridae,18871,0.4124847649833077,"KY786013.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCC076D5, complete genome",data/processed/filoviridae_clean.fasta
+OQ784119.1,Filoviridae,19540,0.4148413510747185,"OQ784119.1 Mutant Zaire ebolavirus rMA-EBOV-nLuc, complete genome",data/processed/filoviridae_clean.fasta
+KY785999.1,Filoviridae,18871,0.4124847649833077,"KY785999.1 Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCB125D5, complete genome",data/processed/filoviridae_clean.fasta
+PX465988.1,Retroviridae,9028,0.4244572441293753,"PX465988.1 HIV-1 isolate 9254-wk42-pl1-I21_S147_L001_001 from Germany, complete genome",data/processed/retroviridae_clean.fasta
+HE589468.1,Orthomyxoviridae,1410,0.4177304964539007,"HE589468.1 Influenza A virus (A/swine/Pinar del Rio/3/2010(H1N1)) segment 6, complete genome",data/processed/orthomyxoviridae_clean.fasta
+MH733490.1,Filoviridae,18932,0.4118952038875977,"MH733490.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2018/Tumba-BIK091, complete genome",data/processed/filoviridae_clean.fasta
+PX931226.1,Coronaviridae,29694,0.3784266181720213,"PX931226.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251010718892/2025, complete genome",data/processed/coronaviridae_clean.fasta
+PV585551.1,Orthomyxoviridae,2403,0.4652517686225551,"PV585551.1 MAG: Egypt associated orthomyxo-like virus 1 isolate Giza_CPC_Pool4, complete genome",data/processed/orthomyxoviridae_clean.fasta
+PX931093.1,Coronaviridae,29694,0.3787297097056644,"PX931093.1 Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/UT-UPHL-251114243588/2025, complete genome",data/processed/coronaviridae_clean.fasta
+MT680261.1,Filoviridae,18277,0.4231000711276467,"MT680261.1 Bundibugyo virus isolate Bundibugyo virus/H.sapiens-wt/COD/2012/Isiro-20120130, complete genome",data/processed/filoviridae_clean.fasta
+PX480364.1,Flaviviridae,10707,0.465863453815261,"PX480364.1 Dengue virus type 3 isolate D18-1361, complete genome",data/processed/flaviviridae_clean.fasta
+PX466017.1,Retroviridae,9049,0.4244667919107083,"PX466017.1 HIV-1 isolate 9254-wk26-3-I4_S69_L001_001 from Germany, complete genome",data/processed/retroviridae_clean.fasta

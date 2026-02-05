@@ -1,0 +1,60 @@
+# Optimized for smaller dataset
+project:
+  name: "viral-genome-classifier"
+  random_seed: 42
+
+data:
+  splits_dir: "data/splits"
+
+model:
+  architecture: "esm2"
+  pretrained_model: "facebook/esm2_t12_35M_UR50D"
+  
+  freeze_encoder: true  # Start frozen for small data
+  unfreeze_after_epoch: 5  # Unfreeze later
+  classifier_dropout: 0.2  # Higher dropout for small data
+  
+  hidden_dims: [480, 256, 128]
+  num_labels: 5
+  max_tokens: 1024
+
+training:
+  batch_size: 4  # Smaller batch for small dataset
+  gradient_accumulation_steps: 8  # Effective batch = 32
+  num_epochs: 30  # More epochs for small data
+  
+  learning_rate: 3.0e-5
+  encoder_lr: 5.0e-6  # Very low LR for frozen encoder
+  weight_decay: 0.01
+  warmup_steps: 50  # Fewer warmup steps
+  max_grad_norm: 1.0
+  
+  device: "cuda"
+  mixed_precision: true
+  num_workers: 4
+  
+  # Early stopping to prevent overfitting
+  patience: 5
+  min_delta: 0.001
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+    - "auroc"
+  
+  save_predictions: true
+
+logging:
+  level: "INFO"
+  log_dir: "logs"
+  experiment_tracker: "mlflow"
+  mlflow_tracking_uri: "./mlruns"
+  experiment_name: "viral-genome-small-dataset"
+  
+  checkpoint_dir: "models/checkpoints"
+  save_top_k: 3
+  monitor_metric: "val_f1"
+  mode: "max"

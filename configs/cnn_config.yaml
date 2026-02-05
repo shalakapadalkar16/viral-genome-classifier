@@ -1,0 +1,52 @@
+project:
+  name: "viral-genome-classifier"
+  random_seed: 42
+
+data:
+  splits_dir: "data/splits"
+  processed_dir: "data/processed"
+
+model:
+  architecture: "cnn"
+  vocab_size: 4098
+  embedding_dim: 128
+  num_labels: 5
+  dropout: 0.3
+  max_tokens: 512  # Shorter for k-mers
+
+training:
+  batch_size: 16  # Larger for simpler model
+  gradient_accumulation_steps: 2
+  num_epochs: 50
+  
+  learning_rate: 1.0e-3  # Higher LR for CNN
+  weight_decay: 0.01
+  warmup_steps: 50
+  max_grad_norm: 1.0
+  
+  device: "cpu"
+  mixed_precision: false  # Disable for CPU
+  num_workers: 2
+  
+  # Early stopping
+  patience: 10
+  min_delta: 0.001
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+
+logging:
+  level: "INFO"
+  log_dir: "logs"
+  experiment_tracker: "mlflow"
+  mlflow_tracking_uri: "./mlruns"
+  experiment_name: "viral-genome-cnn"
+  
+  checkpoint_dir: "models/checkpoints"
+  save_top_k: 3
+  monitor_metric: "val_f1"
+  mode: "max"

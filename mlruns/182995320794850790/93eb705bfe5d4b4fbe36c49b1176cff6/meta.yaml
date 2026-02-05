@@ -1,0 +1,14 @@
+artifact_uri: /Users/shalakapadalkar/Desktop/ML/Projects/viral-genome-classifier/mlruns/182995320794850790/93eb705bfe5d4b4fbe36c49b1176cff6/artifacts
+end_time: 1770250992965
+entry_point_name: ''
+experiment_id: '182995320794850790'
+lifecycle_stage: active
+run_id: 93eb705bfe5d4b4fbe36c49b1176cff6
+run_name: learned-dove-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770250930169
+status: 3
+tags: []
+user_id: shalakapadalkar
